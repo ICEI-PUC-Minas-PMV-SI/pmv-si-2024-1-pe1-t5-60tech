@@ -1,4 +1,4 @@
-# Título do Projeto
+# 60+ Tech
 
 `CURSO: Sistemas de Informação`
 
