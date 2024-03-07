@@ -1,26 +1,17 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
-
-Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
+Ao decorrer dos anos a tecnologia vem avançando cada vez mais e as novas gerações ficam mais interligadas em novos conhecimentos. No entanto, os idosos, uma parte significativa da população, muitas vezes ficam desatualizados e perdidos nesse processo, sentindo-se analfabetos ao tentar acessar esse recurso.
+Diante disso, foram organizadas informações e conhecimentos em uma aplicação web para ajudar as pessoas com mais de 60 anos a proporcionar acessos a informações e conhecimentos que permitirão navegar no mundo digital com mais confiança e autonomia. Ao oferecer tutoriais, dicas e lembretes, essa plataforma busca garantir que todos tenham a oportunidade de aproveitar os benefícios que a tecnologia moderna pode oferecer.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+1º Persona: 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Raimundo Neto, um idoso de 73 anos, teve pouco acesso a celulares e computadores ao longo da vida, devido ao medo e a uma condição financeira ruim. Decidiu então comprar um celular para se conectar melhor com seus familiares e amigos. Para isso, ele precisa de uma plataforma que reúna todos os conhecimentos básicos para acessar as redes sociais, aplicativos de conversa e aumentar a segurança na internet.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+2º Persona: 
+
+Teresa de Souza, uma aposentada de 62 anos, percebeu ao longo do tempo que sua memória estava ficando cada vez pior, com dificuldade para se lembrar dos horários dos medicamentos e para acessar a internet. Por isso, ela está procurando uma forma de marcar seus lembretes e dicas para facilitar o uso da internet, tornando sua experiência online mais acessível e proveitosa.
 
 ## Histórias de Usuários
 
