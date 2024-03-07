@@ -18,25 +18,23 @@ Teresa de Souza, uma aposentada de 62 anos, percebeu ao longo do tempo que sua m
 
 # Usuário do Sistema:
 
-Registrar
+Registrar:
 
+-Nome e idade
 
-Nome e idade
+-Rede Sociais que Utiliza
 
-Rede Sociais que Utiliza
+-Tipos de Conteúdos, Suporte e Orientação
 
-Tipos de Conteúdos, Suporte e Orientação
+-Medicamentos e Horários de Consumo
 
-Medicamentos e Horários de Consumo
+Razão:
 
-Razão
+-Para identificação do usuário
 
+-Receber conteúdos de interesse como: dicas, suporte, orientação e tutoriais relacionados a tecnologia
 
-Para identificação do usuário
-
-Receber conteúdos de interesse como: dicas, suporte, orientação e tutoriais relacionados a tecnologia
-
-Receber um lembrete para se medicar
+-Receber um lembrete para se medicar
 
 
 
@@ -44,18 +42,15 @@ Receber um lembrete para se medicar
 
 Necessidades:
 
+-Alterar permissões
 
-Alterar permissões
+-Seleção e criação de conteúdos
 
-Seleção e criação de conteúdos
+Razão:
 
+-Para administrar contas
 
-Razão
-
-
-Para administrar contas
-
-Para fornecer conteúdos de suporte e ajuda
+-Para fornecer conteúdos de suporte e ajuda
 
 
 ## Requisitos:
