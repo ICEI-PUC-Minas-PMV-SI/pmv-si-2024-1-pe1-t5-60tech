@@ -89,9 +89,6 @@ ID RF 003: Alta
 
 ID RF 004: Média
 
-
-
-
 ID RNF 001: Média
 
 ID RNF 002: Baixa
