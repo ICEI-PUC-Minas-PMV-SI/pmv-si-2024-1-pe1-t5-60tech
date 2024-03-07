@@ -13,42 +13,67 @@ Raimundo Neto, um idoso de 73 anos, teve pouco acesso a celulares e computadores
 
 Teresa de Souza, uma aposentada de 62 anos, percebeu ao longo do tempo que sua memória estava ficando cada vez pior, com dificuldade para se lembrar dos horários dos medicamentos e para acessar a internet. Por isso, ela está procurando uma forma de marcar seus lembretes e dicas para facilitar o uso da internet, tornando sua experiência online mais acessível e proveitosa.
 
-## Histórias de Usuários
-
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade | 
-|------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
+## Historia de Usuários:
 
 
-### Requisitos não Funcionais
+# Usuário do Sistema:
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+Registrar
+Nome e idade
+Rede Sociais que Utiliza
+Tipos de Conteúdos, Suporte e Orientação
+Medicamentos e Horários de Consumo
+
+Razão
+Para identificação do usuário
+Receber conteúdos de interesse como: dicas, suporte, orientação e tutoriais relacionados a tecnologia
+Receber um lembrete para se medicar
+
+
+# Administrador do Sistema:
+
+Necessidades:
+Alterar permissões
+Seleção e criação de conteúdos
+
+
+Razão
+Para administrar contas
+Para fornecer conteúdos de suporte e ajuda
+
+
+## Requisitos:
+
+# Requisitos Funcionais:
+
+ID RF 001  A aplicação deve permitir que o usuário gerencie suas informações (Cadastro)
+ID RF 002 A aplicação deve permitir que o usuário cadastre seus medicamentos e horários
+ID RF 003 A aplicação deve notificar os horários cadastrado pelo usuário para o consumo de medicamentos
+ID RF 004 A aplicação deve enviar vídeos e informações de tutoriais, orientação de dicas relacionado à redes sociais e tecnologia
+
+
+# Requisitos Funcionais:
+
+ID RNF 001 A aplicação deve ser responsiva. Deve suportar dispositivos IOS e Android
+ID RNF 002 A aplicação deve processar requisitos do usuário em no máximo 3 segundos.
+ID RNF 003 A aplicação deve acessar as notificações do aparelho para gerar lembretes
+ID RNF 004 A aplicação não necessita de internet para ser acessível 
+ID RNF 005 A aplicação deve ter uma interface de fácil usabilidade
+
+
+# Prioridade:
+
+ID RF 001: Alta
+ID RF 002: Média
+ID RF 003: Alta
+ID RF 004: Média
+
+ID RNF 001: Média
+ID RNF 002: Baixa
+ID RNF 003: Média
+ID RNF 004: Alta
+ID RNF 005: Média
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
