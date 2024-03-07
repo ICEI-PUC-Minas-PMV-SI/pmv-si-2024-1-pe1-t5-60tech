@@ -1,54 +1,39 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+O século XXI trouxe bastantes mudanças. Uma delas é o avanço da tecnologia, que tem redefinido a maneira como interagimos com o mundo ao nosso redor. Por um lado, essas inovações têm trazido inúmeras vantagens e facilidades para a vida cotidiana, por outro, têm também apresentado desafios significativos, especialmente para uma parte da população: os idosos.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+O ritmo acelerado das atualizações tecnológicas pode representar uma barreira para as pessoas da terceira idade, dificultando sua capacidade de acompanhar as mudanças e manter-se atualizado sobre novas funcionalidades e práticas de uso. Isso muitas vezes os desencoraja a explorar e usufruir plenamente das vantagens oferecidas por essas tecnologias.
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
+Dados do Instituto Brasileiro de Geografia e Estatística (IBGE) mostraram um aumento significativo da proporção de idosos que usavam a internet em 2016, passando de 24,7% para 62,1% em 2022, refletindo a ampla e imensa disseminação do uso dessa tecnologia. Ainda assim, mesmo com esse crescimento, os idosos são o grupo etário com menor percentual de pessoas que utilizam a internet.
 
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, **não** é a hora de comentar sobre a solução/aplicação.
+Muitos idosos enfrentam dificuldades significativas ao tentarem utilizar dispositivos tecnológicos e aplicativos devido à falta de familiaridade e de habilidades digitais. Isso os exclui de muitos benefícios oferecidos pela tecnologia moderna, como acesso a informações, comunicação com entes queridos, serviços online e entretenimento. A ausência de recursos e plataformas específicas projetadas para atender às necessidades dos idosos agrava essa situação, dificultando ainda mais sua integração digital.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
+Nesse contexto, a disponibilidade de informações que contribuam para a aprendizagem no âmbito da tecnologia e recursos direcionados especificamente para pessoas com mais de 60 anos é uma necessidade que ainda não está completamente atendida. Embora haja uma vasta quantidade de informações disponíveis na internet, encontrar uma fonte única e acessível que ofereça uma combinação adequada de entretenimento e aprendizado para as pessoas da terceira idade pode ser um desafio. A disponibilização de conteúdos e artigos online que atendam a esses dois aspectos pode desempenhar um papel crucial na abordagem dessa problemática, estimulando o interesse dos idosos em aprender, reduzindo a exposição a conteúdos irrelevantes e ensinando-os a utilizar a tecnologia de forma proveitosa e responsável.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+**Objetivo geral**
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Tem como objetivo oferecer um ambiente interativo e educativo, fornecendo tutoriais sobre redes sociais, recursos para cadastro de medicamentos com lembretes e dicas para evitar golpes na internet.
+
+**Objetivos específicos**
+
+
+Tutoriais de Redes Sociais
+Cadastro de Medicamentos e Lembretes
+Dicas para Evitar Golpes Online
+Suporte e Orientação
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-Lembre-se de pesquisar e utilizar números que justifiquem por que é importante que tal problema seja resolvido ou que mostrem o impacto do problema na vida das pessoas.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Os idosos enfrentam desafios únicos ao navegar na internet, conforme evidenciado por pesquisas recentes. Em 2021, pela primeira vez, mais da metade dos idosos acessaram à internet no período de referência do módulo de Tecnologia de Informação e Comunicação da Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD TIC). O percentual de utilização da internet pelas pessoas com 60 anos ou mais de idade saltou de 44,8% para 57,5%, entre 2019 e 2021. Portanto, é fundamental oferecer recursos e suporte específicos para essa faixa etária, visando promover a inclusão digital e garantir uma experiência online mais segura e acessível para os idosos. 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+Nosso público alvo são os idosos com mais de 60 anos, pois essa faixa etária frequentemente enfrenta desafios específicos ao utilizar a internet, como a falta de familiaridade com tecnologia e preocupações com segurança online. Nosso propósito é oferecer suporte adaptado às necessidades desses usuários, facilitando sua inclusão digital e promovendo uma experiência online mais segura e acessível para eles.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
