@@ -17,45 +17,10 @@ Teresa de Souza, uma aposentada de 62 anos, percebeu ao longo do tempo que sua m
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Fazer meu cadastro           | Acessar as funcionalidades do sistema               |
-|Usuário do sistema       | Cadastrar medicamentos                 | Receber alertas de horários |
-
-
-# Usuário do Sistema:
-
-Registrar:
-
--Nome e idade
-
--Rede Sociais que Utiliza
-
--Tipos de Conteúdos, Suporte e Orientação
-
--Medicamentos e Horários de Consumo
-
-Razão:
-
--Para identificação do usuário
-
--Receber conteúdos de interesse como: dicas, suporte, orientação e tutoriais relacionados a tecnologia
-
--Receber um lembrete para se medicar
-
-
-
-# Administrador do Sistema:
-
-Necessidades:
-
--Alterar permissões
-
--Seleção e criação de conteúdos
-
-Razão:
-
--Para administrar contas
-
--Para fornecer conteúdos de suporte e ajuda
+|Usuário do sistema  | Fazer meu cadastro           | Acessar as funcionalidades do sistema        |
+|Usuário do sistema  | Cadastrar medicamentos       | Receber alertas de horários                  |
+|Usuário do sistema  | Acessar dicas, tutoriais e suporte sobre tecnologia/segurança | Para aprender |
+|Usuário do sistema  | Cadastrar medicamentos  | Receber alertas de horários                       |
 
 
 ## Requisitos:
@@ -65,51 +30,22 @@ Razão:
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
 |RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
-
-
-ID RF 001  A aplicação deve permitir que o usuário gerencie suas informações (Cadastro)
-
-ID RF 002 A aplicação deve permitir que o usuário cadastre seus medicamentos e horários
-
-ID RF 003 A aplicação deve notificar os horários cadastrado pelo usuário para o consumo de medicamentos
-
-ID RF 004 A aplicação deve enviar vídeos e informações de tutoriais, orientação de dicas relacionado à redes sociais e tecnologia
-
+|RF-002| A aplicação deve permitir que o usuário gerencie suas informações (Cadastro)   | MÉDIA |
+|RF-003| A aplicação deve permitir que o usuário cadastre seus medicamentos e horários | ALTA |  
+|RF-004| A aplicação deve notificar os horários cadastrado pelo usuário para o consumo de medicamentos | MÉDIA | 
+|RF-005| A aplicação deve permitir acessar vídeos e informações de tutoriais, orientação de dicas relacionado à redes sociais e tecnologia | ALTA |
+|RF-006| A aplicação deve permitir o usuário avaliar a dica, suporte, tutorial para relevância da informação | MÉDIA | 
+|RF-007| A aplicação deve permitir o usuário compartilhar dicas e tutorias | BAIXA |
+|RF-008| A aplicação deve dar suporte e dicas sobre segurança para o usuário | ALTA |
 
 # Requisitos Não Funcionais:
 
-ID RNF 001 A aplicação deve ser responsiva. Deve suportar dispositivos IOS e Android
-
-ID RNF 002 A aplicação deve processar requisitos do usuário em no máximo 3 segundos.
-
-ID RNF 003 A aplicação deve acessar as notificações do aparelho para gerar lembretes
-
-ID RNF 004 A aplicação não necessita de internet para ser acessível 
-
-ID RNF 005 A aplicação deve ter uma interface de fácil usabilidade
-
-
-# Prioridade:
-
-ID RF 001: Alta
-
-ID RF 002: Média
-
-ID RF 003: Alta
-
-ID RF 004: Média
-
-ID RNF 001: Média
-
-ID RNF 002: Baixa
-
-ID RNF 003: Média
-
-ID RNF 004: Alta
-
-ID RNF 005: Média
-
+|ID    | Descrição do Requisito  | Prioridade | 
+|------|-----------------------------------------|----| 
+|RNF-001| A aplicação deve ser responsiva. Deve suportar dispositivos IOS e Android | ALTA |  
+|RNF-002| A aplicação deve processar consultas do usuário em no máximo 3 segundos.   | MÉDIA |
+|RNF-003| A aplicação deve acessar as notificações do aparelho para gerar lembretes | ALTA |  
+|RNF-003| A aplicação deve ter uma interface de fácil usabilidade | ALTA |  
 
 
 - [Requisitos Funcionais
