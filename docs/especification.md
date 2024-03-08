@@ -77,7 +77,7 @@ ID RF 003 A aplicação deve notificar os horários cadastrado pelo usuário par
 ID RF 004 A aplicação deve enviar vídeos e informações de tutoriais, orientação de dicas relacionado à redes sociais e tecnologia
 
 
-# Requisitos Funcionais:
+# Requisitos Não Funcionais:
 
 ID RNF 001 A aplicação deve ser responsiva. Deve suportar dispositivos IOS e Android
 
