@@ -17,8 +17,8 @@ Teresa de Souza, uma aposentada de 62 anos, percebeu ao longo do tempo que sua m
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Fazer meu cadastro           | Acessar as funcionalidades do sistema               |
+|Usuário do sistema       | Cadastrar medicamentos                 | Receber alertas de horários |
 
 
 # Usuário do Sistema:
