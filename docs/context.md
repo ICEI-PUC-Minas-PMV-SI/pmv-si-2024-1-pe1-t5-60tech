@@ -18,18 +18,19 @@ Nesse contexto, a disponibilidade de informações que contribuam para a aprendi
 
 **Objetivo geral**
 
-Tem como objetivo oferecer um ambiente interativo e educativo, fornecendo tutoriais sobre redes sociais, recursos para cadastro de medicamentos com lembretes e dicas para evitar golpes na internet.
+Tem como objetivo oferecer um ambiente interativo e educativo para auxiliar pessoas da terceira idade no ambito geral da tecnologia.
+
 
 **Objetivos específicos**
 
 
-Tutoriais de Redes Sociais
+- Tutoriais de Redes Sociais
 
-Cadastro de Medicamentos e Lembretes
+- Cadastro de Medicamentos e Lembretes
 
-Dicas para Evitar Golpes Online
+- Dicas para Evitar Golpes Online
 
-Suporte e Orientação
+- Suporte e Orientação de uso de aplicativos em geral
 
 
 ## Justificativa
