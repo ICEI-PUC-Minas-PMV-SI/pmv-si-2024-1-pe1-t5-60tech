@@ -2,9 +2,11 @@
 
 O século XXI trouxe bastantes mudanças. Uma delas é o avanço da tecnologia, que tem redefinido a maneira como interagimos com o mundo ao nosso redor. Por um lado, essas inovações têm trazido inúmeras vantagens e facilidades para a vida cotidiana, por outro, têm também apresentado desafios significativos, especialmente para uma parte da população: os idosos.
 
-O ritmo acelerado das atualizações tecnológicas pode representar uma barreira para as pessoas da terceira idade, dificultando sua capacidade de acompanhar as mudanças e manter-se atualizado sobre novas funcionalidades e práticas de uso. Isso muitas vezes os desencoraja a explorar e usufruir plenamente das vantagens oferecidas por essas tecnologias.
+De acordo com o Censo, em 2022, o total de pessoas com 65 anos ou mais no país (22.169.101) chegou a 10,9% da população, com alta de 57,4% frente a 2010, quando esse contingente era de 14.081.477, ou 7,4% da população. O ritmo acelerado das atualizações tecnológicas pode representar uma barreira para as pessoas da terceira idade, dificultando sua capacidade de acompanhar as mudanças e manter-se atualizado sobre novas funcionalidades e práticas de uso. Isso muitas vezes os desencoraja a explorar e usufruir plenamente das vantagens oferecidas por essas tecnologias.
 
 Dados do Instituto Brasileiro de Geografia e Estatística (IBGE) mostraram um aumento significativo da proporção de idosos que usavam a internet em 2016, passando de 24,7% para 62,1% em 2022, refletindo a ampla e imensa disseminação do uso dessa tecnologia. Ainda assim, mesmo com esse crescimento, os idosos são o grupo etário com menor percentual de pessoas que utilizam a internet.
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/161092266/1469f018-8ded-4dc2-8cd4-6a61196bd241)
+
 
 
 ## Problema
