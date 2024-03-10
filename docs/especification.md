@@ -14,6 +14,7 @@ Raimundo Neto, um idoso de 74 anos, teve pouco acesso a celulares e computadores
 Teresa de Souza, uma aposentada de 66 anos, percebeu ao longo do tempo que sua memória estava ficando cada vez pior, com dificuldade para se lembrar dos horários dos medicamentos e para acessar a internet. Por isso, ela está procurando uma forma de marcar seus lembretes e dicas para facilitar o uso da internet, tornando sua experiência online mais acessível e proveitosa.
 
 3º Persona:
+
 Madalena Gonçalves é uma professora de 60 anos que, devido ao seu trabalho e à pandemia, precisou se adaptar ao básico da comunicação pela internet. Apesar disso, ela ainda se sente insegura com os conhecimentos adquiridos e busca aprender mais sobre as novas redes sociais e como melhorar suas buscas por informações na internet.
 
 
