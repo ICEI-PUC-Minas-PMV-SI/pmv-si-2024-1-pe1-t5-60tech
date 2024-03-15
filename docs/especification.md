@@ -23,7 +23,7 @@ Madalena Gonçalves é uma professora de 60 anos que, devido ao seu trabalho e �
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Preciso fazer meu cadastro/login           | Para acessar as funcionalidades do sistema        |
 |Usuário do sistema  | Gostaria de cadastrar medicamentos       | Com o intuito de receber alertas dos horários para medicação  |
-|Usuário do sistema  | Preciso receber alerta de horários       | Para eu não esquecer de me medicar |
+|Usuário do sistema  | Preciso receber um alerta de horários       | Para eu não esquecer de me medicar |
 |Usuário do sistema  | Quero acessar dicas sobre redes sociais | Para aprender mais sobre mídias sociais |
 |Usuário do sistema  | Quero receber tutoriais sobre ferramentas de tecnologia | Para adquirir mais conhecimento |
 |Usuário do sistema  | Gostaria de receber instruções de segurança relacionado a tecnologia | Para me sentir mais seguro ao usar tecnologia |
