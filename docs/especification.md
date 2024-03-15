@@ -21,11 +21,11 @@ Madalena Gonçalves é uma professora de 60 anos que, devido ao seu trabalho e �
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Fazer meu cadastro           | Acessar as funcionalidades do sistema        |
-|Usuário do sistema  | Cadastrar medicamentos       | Receber alertas de horários                  |
-|Usuário do sistema  | Acessar dicas, tutoriais e suporte sobre tecnologia/segurança | Para aprender |
-|Usuário do sistema  | Cadastrar medicamentos  | Receber alertas de horários                       |
-
+|Usuário do sistema  | Preciso fazer meu cadastro           | Para acessar as funcionalidades do sistema        |
+|Usuário do sistema  | Gostaria de cadastrar medicamentos       | com o intuito de receber alertas dos horários para me medicar                  |
+|Usuário do sistema  | Quero acessar dicas sobre redes sociais | Para aprender mais sobre mídias sociais |
+|Usuário do sistema  | Quero receber tutoriais sobre ferramentas de tecnologia | Para adquirir mais conhecimento |
+|Usuário do sistema  | Gostaria de receber instruções de segurança relacionado a tecnologia | Para me sentir mais seguro ao usar tecnologia |
 
 ## Requisitos:
 
@@ -33,14 +33,15 @@ Madalena Gonçalves é uma professora de 60 anos que, devido ao seu trabalho e �
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
+|RF-001| A aplicação deve permitir que o usuário faça login | ALTA |  
 |RF-002| A aplicação deve permitir que o usuário gerencie suas informações (Cadastro)   | MÉDIA |
 |RF-003| A aplicação deve permitir que o usuário cadastre seus medicamentos e horários | ALTA |  
-|RF-004| A aplicação deve notificar os horários cadastrado pelo usuário para o consumo de medicamentos | MÉDIA | 
-|RF-005| A aplicação deve permitir acessar vídeos e informações de tutoriais, orientação de dicas relacionado à redes sociais e tecnologia | ALTA |
-|RF-006| A aplicação deve permitir o usuário avaliar a dica, suporte, tutorial para relevância da informação | MÉDIA | 
-|RF-007| A aplicação deve permitir o usuário compartilhar dicas e tutorias | BAIXA |
-|RF-008| A aplicação deve dar suporte e dicas sobre segurança para o usuário | ALTA |
+|RF-004| A aplicação deve notificar os horários cadastrados pelo usuário para o consumo de medicamentos | MÉDIA | 
+|RF-005| A aplicação deve permitir o usuário acessar dicas sobre redes sociais | ALTA |
+|RF-006| A aplicação deve permitir o usuário acessar tutoriais sobre ferramentas de tecnologia | ALTA |
+|RF-007| A aplicação deve permitir o usuário avaliar a dica, suporte, tutorial para relevância da informação | MÉDIA | 
+|RF-008| A aplicação deve permitir o usuário deixar um comentário nas dicas e tutoriais | BAIXA |
+|RF-009| A aplicação deve dar suporte e dicas sobre segurança para o usuário | ALTA |
 
 # Requisitos Não Funcionais:
 
@@ -48,7 +49,6 @@ Madalena Gonçalves é uma professora de 60 anos que, devido ao seu trabalho e �
 |------|-----------------------------------------|----| 
 |RNF-001| A aplicação deve ser responsiva. Deve suportar dispositivos IOS e Android | ALTA |  
 |RNF-002| A aplicação deve processar consultas do usuário em no máximo 3 segundos.   | MÉDIA |
-|RNF-003| A aplicação deve acessar as notificações do aparelho para gerar lembretes | ALTA |  
 |RNF-003| A aplicação deve ter uma interface de fácil usabilidade | ALTA |  
 
 
