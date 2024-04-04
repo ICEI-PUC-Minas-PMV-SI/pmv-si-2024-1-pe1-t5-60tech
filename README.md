@@ -10,12 +10,13 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
+* Gabriel Nascimento
 * Gabrielle Vitoria Gomes Almeida 
 * Lucas Souza Diniz
-* Camilla Cintra de Oliveira 
 * Paulo Júlio Gonçalves Santos 
 * Pedro Henrique Correia Cassimiro
-* Ludmilla Cristina de Carvalho Barboza 
+* Yasmin Ank Alves Gonçalves
+
 
 ## Orientador
 
