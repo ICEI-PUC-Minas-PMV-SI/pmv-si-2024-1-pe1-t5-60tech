@@ -28,6 +28,8 @@ Madalena Gonçalves é uma professora de 60 anos que, devido ao seu trabalho e �
 |Usuário do sistema  | Quero acessar dicas sobre redes sociais | Para aprender mais sobre mídias sociais |
 |Usuário do sistema  | Quero receber tutoriais sobre ferramentas de tecnologia | Para adquirir mais conhecimento |
 |Usuário do sistema  | Gostaria de receber instruções de segurança relacionado a tecnologia | Para me sentir mais seguro ao usar tecnologia |
+|Usuário do sistema  | Quero receber uma dica do dia todos os dias | Para ver dicas diferentes todos os dias |
+|Usuário do sistema  | Gostaria de compartilhar os conteúdos do site | Para compartilhar com outras pessoas |
 
 ## Requisitos:
 
@@ -42,8 +44,10 @@ Madalena Gonçalves é uma professora de 60 anos que, devido ao seu trabalho e �
 |RF-005| A aplicação deve permitir o usuário acessar dicas sobre redes sociais | ALTA |
 |RF-006| A aplicação deve permitir o usuário acessar tutoriais sobre ferramentas de tecnologia | ALTA |
 |RF-007| A aplicação deve permitir o usuário avaliar a dica, suporte, tutorial para relevância da informação | MÉDIA | 
-|RF-008| A aplicação deve permitir o usuário deixar um comentário nas dicas e tutoriais | BAIXA |
+|RF-008| A aplicação deve permitir que o usuário compartilhe o conteúdo do site | ALTA |
 |RF-009| A aplicação deve dar suporte e dicas sobre segurança para o usuário | ALTA |
+|RF-010| A aplicação deve permitir que o usuário acesse uma dica do dia | MÉDIA |
+
 
 # Requisitos Não Funcionais:
 
