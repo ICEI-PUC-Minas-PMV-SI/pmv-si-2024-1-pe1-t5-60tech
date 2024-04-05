@@ -17,7 +17,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 Esta é a página inicial, na qual serão destacadas as principais funcionalidades do site. Inclui o menu de navegação, opções de cadastro, tutoriais, informações sobre medicamentos, orientações de segurança e a dica do dia.
 
-![index-init (1)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/3ef193c4-3103-4024-a420-2eb0628765af)
+![index-init (2)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/4f226463-51ab-4d30-952b-5ff18f82020f)
+
 
 
 
