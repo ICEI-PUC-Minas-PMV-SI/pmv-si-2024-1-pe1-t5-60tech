@@ -59,7 +59,8 @@ Perfil do usuário, destinado à visualização dos dados cadastrais pessoais.
 
 ### Sobre Nós
 Página 'Sobre Nós', apresentando uma narrativa sobre a trajetória do projeto, seus membros, inspirações e fontes de referência.
-![Sobre nós](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/161092266/b6a66212-15f0-414e-9cc1-c91697266a59)
+![Sobre nós 01](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/ef2f19a6-4650-47d8-9863-c7b8c9350ebe)
+
 
 
 
