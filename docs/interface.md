@@ -17,7 +17,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 Esta é a página inicial, na qual serão destacadas as principais funcionalidades do site. Inclui o menu de navegação, opções de cadastro, tutoriais, informações sobre medicamentos, orientações de segurança e a dica do dia.
 
-![Home](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/b045d41d-0ce6-45f1-8cc4-170941b09dc0)
+![index-init](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/eb69a3c8-8f22-4df2-aa5f-9093a9334cd8)
+
 
 
 
@@ -26,16 +27,27 @@ Esta página é dedicada a tutoriais, apresentando uma variedade de aplicativos 
 
 ![Tutoriais](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/161092266/50b55113-437c-4c52-99a2-b55be4d436a1)
 
+### Tutoriais app/site
+Página de Tutoriais sobre o app/site escolhido na qual se destacam os principais conteúdos pertinentes à temática.
+
+![Tutoriais 2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/7346ada7-407f-4fe3-a93e-d0b919de9770)
+
+### Conteúdo Tutoriais
+Página de Conteúdo, onde são apresentados conteúdos acompanhados por descrições breves e vídeos indicativos. Esta página oferece funções para avaliação do conteúdo e compartilhamento.
+
+![Conteúdo](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/161092266/59d7255e-c038-424e-80ae-85c3cec8c74e)
+
+
 ### Dicas
 Esta é uma página voltada para orientações de segurança, na qual se destacam os principais conteúdos pertinentes à temática de segurança.
 
 ![Dicas](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/161092266/06d98440-db0e-4a15-b87a-359335e8b76d)
 
 
-### Conteúdo
-Página de Conteúdo, onde são apresentados conteúdos acompanhados por descrições breves e vídeos indicativos. Esta página oferece funções para avaliação do conteúdo e compartilhamento.
+### Conteúdo Dicas
+Página que traz mais detalhes e informações sobre a dica de segurança escolhida na tela “Dicas”.
+![Dicas 2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/e47d3271-9803-4e41-bf09-cca87502f1fd)
 
-![Conteúdo](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/161092266/59d7255e-c038-424e-80ae-85c3cec8c74e)
 
 
 ### Cadastro de Medicamentos
@@ -69,7 +81,8 @@ Página de login, na qual o usuário realizará o acesso mediante suas credencia
 ### Perfil
 Perfil do usuário, destinado à visualização dos dados cadastrais pessoais.
 
-![perfil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/161092266/092b6f69-30a3-4d1b-81d0-23f564012fac)
+![meu perfil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/d6b3b698-6bfb-40bf-9e10-7de4abead7dc)
+
 
 
 
