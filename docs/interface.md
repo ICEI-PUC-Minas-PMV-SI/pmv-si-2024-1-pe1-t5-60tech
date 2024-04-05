@@ -7,7 +7,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-<img width="1994" alt="User Flow" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/161092266/4e1167d7-cc90-4f33-9d47-8baa0ff56a7d">
+<img width="1992" alt="User Flow" src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/4b754f0e-8c26-4220-9f72-a6e1725e51e3">
 
 
 ## Wireframes
