@@ -16,9 +16,9 @@ Apresente a paleta de cores que será utilizada. Uma ferramenta interessante par
 
 ## Tipografia
 
-A fonte Poppins é uma ótima escolha para sites devido à sua excelente legibilidade em diferentes dispositivos e tamanhos de tela. Com um estilo moderno e limpo, ela transmite uma imagem profissional e contemporânea. Além disso, sua variedade de pesos e estilos permite criar hierarquias claras no design do texto. [Link para a fonte no Google Fonts](https://fonts.google.com/specimen/Poppins)
+A fonte Poppins é uma ótima escolha para sites devido à sua excelente legibilidade em diferentes dispositivos e tamanhos de tela. Com um estilo moderno e limpo, ela transmite uma imagem profissional e contemporânea. Além disso, sua variedade de pesos e estilos permite criar hierarquias claras no design do texto. [Link para a tipografia no Google Fonts](https://fonts.google.com/specimen/Poppins)
 
-![fonte (1)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/a4157c78-1d0f-4c42-9476-76e28ed8854c)
+![fonte](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/a4157c78-1d0f-4c42-9476-76e28ed8854c)
 
 
 
