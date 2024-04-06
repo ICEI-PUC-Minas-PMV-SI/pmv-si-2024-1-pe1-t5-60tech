@@ -6,12 +6,24 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ## Design
 
-Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
+### Home
+
+![index-init (2)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/d3b7b8d8-cef4-414b-9f59-8fa5483d9e64)
+
+### Logo 
+
+![image-removebg-preview 3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/c4c07f56-8b83-47ee-99e2-9dfc59eb72b0)
+
+### Cabeçalho
+
+
+### Footer
+
 
 
 ## Cores
 
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
+![Cores](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/4080b57c-f79c-43ec-af18-7c80902b00ee)
 
 
 ## Tipografia
