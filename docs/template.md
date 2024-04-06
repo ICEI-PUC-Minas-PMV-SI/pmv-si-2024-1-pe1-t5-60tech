@@ -6,31 +6,21 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ## Design
 
-### Home
-
-![index-init (2)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/d3b7b8d8-cef4-414b-9f59-8fa5483d9e64)
-
-### Logo 
-
-![image-removebg-preview 3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/c4c07f56-8b83-47ee-99e2-9dfc59eb72b0)
-
-### Cabeçalho
-
-
-### Footer
-
+Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
 
 
 ## Cores
 
-![Cores](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/4080b57c-f79c-43ec-af18-7c80902b00ee)
+Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
 
 
 ## Tipografia
 
-A fonte Poppins é uma ótima escolha para sites devido à sua excelente legibilidade em diferentes dispositivos e tamanhos de tela. Com um estilo moderno e limpo, ela transmite uma imagem profissional e contemporânea. Além disso, sua variedade de pesos e estilos permite criar hierarquias claras no design do texto. 
+A fonte Poppins é uma ótima escolha para sites devido à sua excelente legibilidade em diferentes dispositivos e tamanhos de tela. Com um estilo moderno e limpo, ela transmite uma imagem profissional e contemporânea. Além disso, sua variedade de pesos e estilos permite criar hierarquias claras no design do texto. [Link para a fonte no Google Fonts](https://fonts.google.com/specimen/Poppins)
 
-![fonte](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/3f7972c8-1cab-4b18-9561-e9aa7e87bdf7)
+![fonte (1)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/a4157c78-1d0f-4c42-9476-76e28ed8854c)
+
+
 
 
 
