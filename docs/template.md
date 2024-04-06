@@ -26,11 +26,7 @@ A fonte Poppins é uma ótima escolha para sites devido à sua excelente legibil
 
 ## Iconografia
 
-Defina os ícones que serão utilizados e suas respectivas funções.
-
-Apresente os estilos CSS criados para cada um dos elementos apresentados.
-Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
-
+Os ícones do [Google Fonts](https://fonts.google.com/icons) são vetoriais, escaláveis e fáceis de implementar, melhorando a estética e a usabilidade de um site. Sua variedade e consistência visual facilitam a escolha e garantem uma aparência coesa em todo o site. 
 
 > **Links Úteis**:
 >
