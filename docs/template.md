@@ -16,7 +16,10 @@ Apresente a paleta de cores que será utilizada. Uma ferramenta interessante par
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+A fonte Poppins é uma ótima escolha para sites devido à sua excelente legibilidade em diferentes dispositivos e tamanhos de tela. Com um estilo moderno e limpo, ela transmite uma imagem profissional e contemporânea. Além disso, sua variedade de pesos e estilos permite criar hierarquias claras no design do texto. 
+
+![fonte](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/3f7972c8-1cab-4b18-9561-e9aa7e87bdf7)
+
 
 
 ## Iconografia
