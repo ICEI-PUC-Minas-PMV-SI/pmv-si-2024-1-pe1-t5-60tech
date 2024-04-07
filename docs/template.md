@@ -1,7 +1,7 @@
 # Template padrão do site
 
 No site 60+ Tech, estamos priorizando a acessibilidade para idosos de várias maneiras. Utilizamos uma fonte maior e mais visível,
-cores suaves e de alto contraste para facilitar a leitura e reduzir a fadiga visual, além de um design simplificado com botões intuitivos, formulários e pop-ups. Também utilizamos imagens estáticas que contribuem para o visual do site.
+cores suaves e de alto contraste para facilitar a leitura e reduzir a fadiga visual, além de um design simplificado com botões intuitivos, formulários e pop-ups. Também utilizamos imagens estáticas que contribuem para o conteúdo visual do site.
 
 Nosso objetivo é criar um ambiente online acolhedor e fácil de usar, onde os idosos possam aprender e explorar a tecnologia com conforto e confiança.
 
