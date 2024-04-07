@@ -1,8 +1,8 @@
 # Template padrão do site
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
-
-Explique as guias de estilo utilizadas no seu projeto.
+No site 60+ Tech, estamos priorizando a acessibilidade para idosos de várias maneiras. Utilizamos uma fonte maior e mais visível,
+cores suaves e de alto contraste para facilitar a leitura e reduzir a fadiga visual, além de um design simplificado com botôes intuitivos, formulários e pop-ups. Também utilizamos imagens estáticas que contribuem para o visual do site.
+Nosso objetivo é criar um ambiente online acolhedor e fácil de usar, onde os idosos possam aprender e explorar a tecnologia com conforto e confiança.
 
 ## Design
 
