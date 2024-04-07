@@ -5,6 +5,10 @@ cores suaves e de alto contraste para facilitar a leitura e reduzir a fadiga vis
 Nosso objetivo é criar um ambiente online acolhedor e fácil de usar, onde os idosos possam aprender e explorar a tecnologia com conforto e confiança.
 
 
+
+__________________________________________________________________________________________________________________________________________________
+
+
 ## Design
 
 ### Logo
