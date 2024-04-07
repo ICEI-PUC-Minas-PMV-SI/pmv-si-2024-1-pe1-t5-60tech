@@ -7,23 +7,26 @@ Explique as guias de estilo utilizadas no seu projeto.
 ## Design
 
 ### Logo
-
+Logo do Site
 ![Cores (1)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/c3d79d66-f1b7-4911-a4d3-0f471335afea)
 
-### Home
-
-![index-init (2)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/005f6b30-5cd4-4d9c-ae5e-a94b9e12e003)
-
 ### Cabeçalho
-
+Cabeçalho do site
 ![index-init (3)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/21253ddf-7514-461f-84c8-72c3620dca4b)
 
-### Footer
 
+### Footer
+Rodapé do site
 ![rodape](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/fe750599-2955-478c-9c81-d7fbaaca2f2f)
 
-## Cores
+### Home
+Página inicial
+![index-init (2)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/005f6b30-5cd4-4d9c-ae5e-a94b9e12e003)
 
+
+
+## Cores
+Paleta de cores utilizadas
 ![Group 83](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/3012b0ef-a5cd-4fbd-a528-16edee1fc8d0)
 
 
@@ -33,7 +36,6 @@ Explique as guias de estilo utilizadas no seu projeto.
 A fonte Poppins é uma ótima escolha para sites devido à sua excelente legibilidade em diferentes dispositivos e tamanhos de tela. Com um estilo moderno e limpo, ela transmite uma imagem profissional e contemporânea. Além disso, sua variedade de pesos e estilos permite criar hierarquias claras no design do texto. [Link para a tipografia no Google Fonts](https://fonts.google.com/specimen/Poppins)
 
 ![fonte](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/a4157c78-1d0f-4c42-9476-76e28ed8854c)
-
 
 
 
