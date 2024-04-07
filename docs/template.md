@@ -16,7 +16,7 @@ Logo do Site
 ### Cabeçalho
 Cabeçalho do site
 
-![index-init (3)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/21253ddf-7514-461f-84c8-72c3620dca4b)
+![index-init (4)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/8c4bd253-8d58-4f3e-8fc5-f04550cffd35)
 
 
 ### Footer
