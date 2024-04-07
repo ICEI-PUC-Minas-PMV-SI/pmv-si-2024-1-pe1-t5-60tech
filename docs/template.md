@@ -27,7 +27,8 @@ Rodapé do site
 ### Home
 Página inicial
 
-![index-init (2)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/005f6b30-5cd4-4d9c-ae5e-a94b9e12e003)
+![index-init (1)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/63108654-6df0-4476-ad36-df02dad8f2dd)
+
 
 __________________________________________________________________________________________________________________________________________________
 
