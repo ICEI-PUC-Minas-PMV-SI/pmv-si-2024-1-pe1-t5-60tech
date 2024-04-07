@@ -60,7 +60,8 @@ Página de Registro de Medicamentos, oferecendo opções para inserir dados como
 ### Meus Medicamentos
 Página 'Meus Medicamentos', onde são apresentados os medicamentos previamente cadastrados pelo usuário, exibindo detalhadamente todas as informações pertinentes.
 
-![Meus medicamentos](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/161092266/da8f685a-f78c-4858-8bfe-570440f9f488)
+![Meus remédios](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/96640dcb-25f7-4e3f-a233-40333eb0f9b9)
+
 
 
 ### Cadastro
