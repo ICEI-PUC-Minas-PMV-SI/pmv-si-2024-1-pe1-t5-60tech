@@ -29,6 +29,7 @@ Página inicial
 
 ![index-init (2)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/005f6b30-5cd4-4d9c-ae5e-a94b9e12e003)
 
+__________________________________________________________________________________________________________________________________________________
 
 
 
@@ -36,6 +37,7 @@ Página inicial
 Paleta de cores utilizadas
 ![Group 83](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/3012b0ef-a5cd-4fbd-a528-16edee1fc8d0)
 
+__________________________________________________________________________________________________________________________________________________
 
 
 ## Tipografia
@@ -45,6 +47,7 @@ A fonte Poppins é uma ótima escolha para sites devido à sua excelente legibil
 ![fonte](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/a4157c78-1d0f-4c42-9476-76e28ed8854c)
 
 
+__________________________________________________________________________________________________________________________________________________
 
 
 ## Iconografia
@@ -60,6 +63,7 @@ Os ícones do [Google Fonts](https://fonts.google.com/icons) são vetoriais, esc
 
 
 
+__________________________________________________________________________________________________________________________________________________
 
 
 
