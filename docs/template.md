@@ -6,7 +6,7 @@ Nosso objetivo é criar um ambiente online acolhedor e fácil de usar, onde os i
 
 
 
-# Design
+## Design
 
 ### Logo
 Logo do Site
