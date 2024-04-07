@@ -8,6 +8,7 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ### Logo
 Logo do Site
+
 ![Cores (1)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/c3d79d66-f1b7-4911-a4d3-0f471335afea)
 
 ### Cabeçalho
