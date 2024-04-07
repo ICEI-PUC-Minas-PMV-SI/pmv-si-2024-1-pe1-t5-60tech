@@ -29,6 +29,7 @@ A fonte Poppins é uma ótima escolha para sites devido à sua excelente legibil
 Os ícones do [Google Fonts](https://fonts.google.com/icons) são vetoriais, escaláveis e fáceis de implementar, melhorando a estética e a usabilidade de um site. Sua variedade e consistência visual facilitam a escolha e garantem uma aparência coesa em todo o site. 
 
 Ícones usados: 
+
 * ![Vector1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/9c07af70-8d8b-4f46-851a-a206acf79136)
 * ![Vector2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/ecee3cf9-821f-425a-a207-bf10b4fb7b0e)
 * ![Vector3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/573e07c4-17a1-4b20-ae89-7e89da0f6789)
