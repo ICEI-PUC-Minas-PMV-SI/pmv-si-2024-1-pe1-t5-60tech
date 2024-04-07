@@ -66,7 +66,7 @@ Página 'Meus Medicamentos', onde são apresentados os medicamentos previamente 
 ### Cadastro
 Página de cadastro, na qual o usuário fornecerá seus dados, incluindo nome, sobrenome, endereço de email e senha.
 
-![Cadastro](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/f991fff3-e468-4651-a75f-c431fcb92a6c)
+![Frame](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/75a032ad-73b5-4d07-ba7d-b4ef7327deaf)
 
 
 
@@ -82,7 +82,8 @@ Página de login, na qual o usuário realizará o acesso mediante suas credencia
 ### Perfil
 Perfil do usuário, destinado à visualização dos dados cadastrais pessoais.
 
-![meu perfil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/d6b3b698-6bfb-40bf-9e10-7de4abead7dc)
+![meu perfil (1)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/e806ac08-7ee2-48a0-ae0d-9aa746bb57e9)
+
 
 
 
