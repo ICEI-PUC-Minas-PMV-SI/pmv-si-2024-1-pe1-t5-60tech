@@ -1,8 +1,10 @@
 # Template padrão do site
 
 No site 60+ Tech, estamos priorizando a acessibilidade para idosos de várias maneiras. Utilizamos uma fonte maior e mais visível,
-cores suaves e de alto contraste para facilitar a leitura e reduzir a fadiga visual, além de um design simplificado com botôes intuitivos, formulários e pop-ups. Também utilizamos imagens estáticas que contribuem para o visual do site.
+cores suaves e de alto contraste para facilitar a leitura e reduzir a fadiga visual, além de um design simplificado com botões intuitivos, formulários e pop-ups. Também utilizamos imagens estáticas que contribuem para o visual do site.
 Nosso objetivo é criar um ambiente online acolhedor e fácil de usar, onde os idosos possam aprender e explorar a tecnologia com conforto e confiança.
+
+__________________________________________________________________________________________________________________________________________________
 
 ## Design
 
@@ -13,16 +15,20 @@ Logo do Site
 
 ### Cabeçalho
 Cabeçalho do site
+
 ![index-init (3)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/21253ddf-7514-461f-84c8-72c3620dca4b)
 
 
 ### Footer
 Rodapé do site
+
 ![rodape](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/fe750599-2955-478c-9c81-d7fbaaca2f2f)
 
 ### Home
 Página inicial
+
 ![index-init (2)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/005f6b30-5cd4-4d9c-ae5e-a94b9e12e003)
+
 
 
 
