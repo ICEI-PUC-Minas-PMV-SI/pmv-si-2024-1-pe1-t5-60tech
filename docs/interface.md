@@ -66,7 +66,7 @@ Página 'Meus Medicamentos', onde são apresentados os medicamentos previamente 
 ### Cadastro
 Página de cadastro, na qual o usuário fornecerá seus dados, incluindo nome, sobrenome, endereço de email e senha.
 
-![Frame](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/75a032ad-73b5-4d07-ba7d-b4ef7327deaf)
+![Frame (1)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/ec0e4077-dd22-4a18-8fb2-bb5f7dfa0e4f)
 
 
 
@@ -94,6 +94,10 @@ Página 'Sobre Nós', apresentando uma narrativa sobre a trajetória do projeto,
 ![Sobre nós](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/123830292/ef2f19a6-4650-47d8-9863-c7b8c9350ebe)
 
 
+### Pop up
+Alerta que o usuário logado no sistema irá receber quando estiver no horario cadastrado de algum de seus medicamentos.
+
+![oi](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech/assets/71785328/357d3df5-9657-485a-9a78-e5c7597c2cb2)
 
 
 
