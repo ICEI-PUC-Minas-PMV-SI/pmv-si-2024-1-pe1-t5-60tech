@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -70,7 +70,6 @@ nav ul li a {
   left: 20px;
 }
 
-
 footer {
   background-color: rgb(46, 45, 43);
   display: flex;
@@ -127,6 +126,21 @@ p.copyright {
 .material-icons.orange {
   color: #ecae2a;
   right: 4px;
+}
+.material-icons.md-18 {
+  font-size: 18px;
+}
+.material-icons.md-24 {
+  font-size: 24px;
+}
+.material-icons.md-36 {
+  font-size: 36px;
+}
+.material-icons.md-48 {
+  font-size: 48px;
+}
+.material-icons.orange {
+  color: #ecae2a;
 }
 .material-icons.md-18 {
   font-size: 18px;
