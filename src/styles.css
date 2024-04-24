@@ -238,10 +238,6 @@ img {
   margin-top: 20px;
 }
 
-.dicas {
-  margin-top: 40px;
-}
-
 .dicas h2 {
   color: #097c8c;
   font-size: 2em;
@@ -251,7 +247,6 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: 20px;
 }
 
 .dicas .video p {
@@ -263,13 +258,18 @@ img {
   color: #097c8c;
   font-weight: bold;
   display: block;
-  margin: 200px 0 0 -875px;
 }
 
 .dicas iframe {
-  width: 560px;
-  height: 315px;
-  margin-left: 20px;
+  width: 440px;
+  height: 200px;
+}
+
+.box.dicas {
+  height: 300px;
+  border: 0.1px solid #ccc;
+  box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
 }
 
 footer {
