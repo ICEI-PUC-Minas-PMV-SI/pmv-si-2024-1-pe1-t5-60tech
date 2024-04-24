@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 
-
 body {
   font-family: "Poppins", sans-serif;
   background-color: #f4fdff;
@@ -50,7 +49,7 @@ nav ul li a {
   width: 1.23em;
   background-color: #24aeda;
   border-radius: 3px;
-  margin: 11px 75px;
+  margin: 17px 95px;
 }
 
 .detalhe-02 {
@@ -59,7 +58,7 @@ nav ul li a {
   width: 1.23em;
   background-color: #24aeda;
   border-radius: 3px;
-  margin: 11.5px -120px;
+  margin: 17px -143px;
 }
 
 .logo {
@@ -201,10 +200,10 @@ main {
 }
 
 .box {
-  height: 200px;
+  height: 250px;
   border: 0.1px solid #ccc;
   box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
-  padding: 20px;
+  padding: 20px 0 0 20px;
   box-sizing: border-box;
   border-radius: 4px;
   overflow: hidden;
@@ -214,14 +213,14 @@ main {
 .main-detalhe-02,
 .main-detalhe-03 {
   position: absolute;
-  top: 30px;
-  left: -5px;
+  top: 35px;
+  left: -8px;
   width: 0.7em;
   height: 0.23em;
   background-color: #ecae2a;
 }
 
- img {
+img {
   width: 100%;
   height: 250px;
   width: 345;
@@ -253,7 +252,7 @@ main {
   color: #097c8c;
   font-weight: bold;
   display: block;
-  margin: 60px 0 0 -925px;
+  margin: 200px 0 0 -875px;
 }
 
 .dicas iframe {
@@ -327,7 +326,6 @@ p.copyright {
   position: relative;
   top: 5px;
 }
-
 
 .material-icons {
   position: relative;
