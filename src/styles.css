@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 
-
 body {
   font-family: "Poppins", sans-serif;
   background-color: #f4fdff;
@@ -221,7 +220,7 @@ main {
   background-color: #ecae2a;
 }
 
- img {
+img {
   width: 100%;
   height: 250px;
   width: 345;
@@ -327,7 +326,6 @@ p.copyright {
   position: relative;
   top: 5px;
 }
-
 
 .material-icons {
   position: relative;
