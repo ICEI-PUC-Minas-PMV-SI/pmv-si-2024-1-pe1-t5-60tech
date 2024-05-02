@@ -48,6 +48,6 @@ iframe {
 }
 
 .action-container {
-  display: flex; /* Configura o contêiner para usar flexbox */
-  align-items: center; /* Alinha os elementos verticalmente ao centro */
+  display: flex;
+  align-items: center;
 }
