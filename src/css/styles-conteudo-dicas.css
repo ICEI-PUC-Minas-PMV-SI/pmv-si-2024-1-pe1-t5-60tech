@@ -1,0 +1,53 @@
+body {
+  background-color: #e7fbff;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0;
+}
+
+.content-box {
+  background-color: #fff;
+  width: 100%;
+  margin: 20px;
+  padding: 40px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+iframe {
+  width: 50%;
+  height: 315px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: #24aeda;
+  color: #000000;
+  border: none;
+  padding: 20px 60px;
+  cursor: pointer;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 4px;
+  margin: 20px 0;
+  margin-right: 20px;
+}
+
+.stars {
+  font-size: 0;
+  cursor: pointer;
+}
+
+.stars i {
+  font-size: 24px;
+  color: orange;
+}
+
+.action-container {
+  display: flex; /* Configura o contêiner para usar flexbox */
+  align-items: center; /* Alinha os elementos verticalmente ao centro */
+}
