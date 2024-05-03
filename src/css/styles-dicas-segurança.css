@@ -1,4 +1,8 @@
-.btn.tutoriais {
+body {
+  background-color: #e7fbff;
+}
+
+.btn {
   border: none;
   border-radius: 8px;
   font-size: 1.2em;
@@ -10,18 +14,18 @@
   background-color: #24aeda !important;
 }
 
-.btn.tutoriais:hover {
+.btn:hover {
   background-color: #288c9a !important;
 }
 
-.btn.tutoriais a,
+.btn a,
 .btn.compartilhe a,
 .btn.avalie a {
   text-decoration: none;
   color: #000;
 }
 
-.box.tutoriais {
+.box {
   background-color: white;
   padding: 1.5%;
   margin: 20px;
@@ -39,6 +43,10 @@
   border: 2px solid #24aeda;
 }
 
+.box p {
+  padding-bottom: 20px;
+}
+
 .cards {
   display: flex;
   flex-wrap: wrap;
@@ -47,7 +55,7 @@
   justify-content: center;
 }
 
-.box.whatsapp {
+.box {
   background-color: white;
   padding: 1.5%;
   margin: 20px;
@@ -73,6 +81,12 @@
   overflow: hidden;
 }
 
+.box img {
+  padding-bottom: 10px;
+  width: 100%;
+  height: 250px;
+}
+
 .btn.avalie,
 .btn.compartilhe {
   border: none;
@@ -96,28 +110,15 @@
   background-color: #288c9a !important;
 }
 
-.btn-star {
-  padding: 0px 0 3px;
-  position: relative;
-  float: center;
-  color: gold;
-  border-color: transparent;
-  background-color: transparent;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-  border-radius: 0;
-  padding: 4px 0px;
-  font-size: 2.4rem;
-  margin-left: 1%;
-  cursor: pointer;
-}
+@media (max-width: 768px) {
+  .column {
+    flex-direction: column;
+    width: 100%;
+    margin: 0;
+  }
 
-.btn-star:focus {
-  outline: none !important;
-  box-shadow: none !important;
-}
-
-.btn-star:hover i {
-  font-weight: 900 !important;
-  color: goldenrod;
+  .info-box {
+    width: 100%;
+    margin: 10px 0;
+  }
 }

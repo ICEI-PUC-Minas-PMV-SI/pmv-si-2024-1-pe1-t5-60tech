@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>60+ Tech</title>
   <link rel="stylesheet" href="/src/css/styles-index.css">
-  <link rel="stylesheet" href="/src/css/styles-dicas.css">
+  <link rel="stylesheet" href="/src/css/styles-dicas-segurança.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap">
@@ -18,6 +18,7 @@
 
 <body>
   <header>
+    <span class="material-symbols-outlined seta"><a href="/src/index.html">arrow_back</a></span>
     <div class="logo">
       <img src="../img/logo.png" alt="Logo 60+ Tech">
     </div>
@@ -37,29 +38,21 @@
   </header>
 
   <main>
-    <h1>Dicas de Segurança</h1>
-    <div class="column">
-      <div class="info-box">
-        <img src="/src/img/pix-logo.png">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi semper magna sit amet suscipit varius.</p>
-        <button>LEIA MAIS</button>
+    <h3 style="text-align: center;"><b>DICAS DE SEGURANÇA</b></h3>
+    <div class="cards">
+      <div class="box">
+        <img src="/src/img/pix-logo.png" alt="">
+        <p>Ao utilizar o PIX, evite compartilhar suas chaves em redes sociais ou sites não confiáveis. Verifique sempre os dados do recebedor antes de confirmar a transferência e utilize senhas seguras para proteger suas chaves e contas.</p>
+        <button class="btn"><a href="pix.html">
+            <h3>Leia Mais</h3>
+          </a> </button>
       </div>
-      <div class="info-box">
-        <img src="/src/img/pix-logo.png">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi semper magna sit amet suscipit varius.</p>
-        <button>LEIA MAIS</button>
-      </div>
-    </div>
-    <div class="column">
-      <div class="info-box">
-        <img src="/src/img/pix-logo.png">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi semper magna sit amet suscipit varius.</p>
-        <button>LEIA MAIS</button>
-      </div>
-      <div class="info-box">
-        <img src="/src/img/pix-logo.png">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi semper magna sit amet suscipit varius.</p>
-        <button>LEIA MAIS</button>
+      <div class="box">
+        <img src="/src/img/boleto.png" alt="">
+        <p>Sempre verifique se o código de barras e os dados do beneficiário estão corretos antes de efetuar o pagamento. Evite acessar links de boletos recebidos por e-mail e prefira gerar boletos diretamente no site do banco.</p>
+        <button class="btn"><a href="boleto.html">
+            <h3>Leia Mais</h3>
+          </a> </button>
       </div>
     </div>
   </main>

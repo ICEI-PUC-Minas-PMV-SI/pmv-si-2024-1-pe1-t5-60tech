@@ -18,7 +18,6 @@ header {
   padding: 10px 500px;
 }
 
-
 .material-symbols-outlined.menu {
   display: none;
   cursor: pointer;
@@ -215,6 +214,11 @@ main {
   font-size: xx-large;
   position: relative;
   margin-right: 10px;
+}
+
+.no-underline {
+  text-decoration: none;
+  color: #000;
 }
 
 .descricao {
@@ -528,4 +532,3 @@ p.copyright {
     align-items: center;
   }
 }
-
