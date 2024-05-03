@@ -276,6 +276,8 @@ img {
 }
 
 .dicas iframe {
+  padding-bottom: 20px;
+  padding-right: 20px;
   width: 440px;
   height: 200px;
 }
