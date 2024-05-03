@@ -95,6 +95,21 @@ nav ul li a {
   left: 200px;
 }
 
+.hamburger {
+  display: none;
+  cursor: pointer;
+}
+
+.bar {
+  display: block;
+  width: 25px;
+  height: 3px;
+  margin: 5px auto;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  background-color: #000;
+}
+
 .background {
   display: flex;
   justify-content: space-between;
@@ -443,44 +458,52 @@ p.copyright {
   }
 }
 @media (max-width: 768px) {
-  nav ul li a {
-    padding: 20px;
+  .other-1 {
+    display: block;
   }
-
   .detalhe-01,
   .detalhe-02 {
     display: none;
   }
 
-  .material-symbols-outlined.menu {
+  .hamburger {
     display: block;
   }
 
-  header {
-    padding: 10px 40px;
-    padding-left: -400s;
+  .hamburger.active .bar:nth-child(2) {
+    opacity: 0;
   }
 
-  nav ul {
-    display: none;
+  .hamburger.active .bar:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+  }
+
+  .hamburger.active .bar:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+  }
+
+  .nav-menu {
+    position: fixed;
+    left: -100%;
+    top: 70px;
+    gap: 0;
     flex-direction: column;
-    align-items: center;
+    background-color: #097c8c;
     width: 100%;
+    text-align: center;
+    transition: 0.3s;
   }
 
-  .logo img {
-    width: 80px;
-    flex-grow: 0;
-    margin-right: auto;
+  .nav-item {
+    margin: 16px 0;
   }
 
-  nav ul.active {
-    display: flex;
+  .nav-menu.active {
+    left: 0;
   }
 
-  .logo,
-  .material-symbols-outlined.menu {
-    padding: 0 125px 0 100px;
+  .logo {
+    padding-right: 100px;
   }
 
   .background {
