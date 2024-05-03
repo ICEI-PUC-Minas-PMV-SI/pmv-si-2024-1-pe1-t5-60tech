@@ -374,7 +374,57 @@ p.copyright {
 .material-icons.md-48 {
   font-size: 48px;
 }
+@media (max-width: 1440px) {
+  header {
+    padding: 10px 300px;
+  }
 
+  .logo img {
+    width: 80px;
+  }
+
+  nav ul {
+    justify-content: space-around;
+  }
+
+  nav ul li a {
+    padding: 20px 10px;
+  }
+
+  nav ul {
+    width: auto;
+
+    padding: 0;
+  }
+
+  nav ul li:not(:last-child) {
+    margin-right: 10px;
+  }
+
+  nav ul li {
+    width: auto;
+
+    padding: 0;
+  }
+
+  .detalhe-01 {
+    position: absolute;
+    height: 0.23em;
+    width: 1.23em;
+    background-color: #24aeda;
+    border-radius: 3px;
+    margin: 17px 45px;
+  }
+
+  .detalhe-02 {
+    position: absolute;
+    height: 0.23em;
+    width: 1.23em;
+    background-color: #24aeda;
+    border-radius: 3px;
+    margin: 17px -200px;
+  }
+}
 @media (max-width: 768px) {
   nav ul li a {
     padding: 20px;
