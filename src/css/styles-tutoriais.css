@@ -43,6 +43,8 @@
     display: flex;
     flex-wrap: wrap;
     gap: 22px;
+    align-items: center;
+    justify-content: center;
   }
   
   .box.whatsapp {
