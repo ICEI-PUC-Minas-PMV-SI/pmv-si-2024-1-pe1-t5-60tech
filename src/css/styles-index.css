@@ -95,6 +95,21 @@ nav ul li a {
   left: 200px;
 }
 
+.hamburger {
+  display: none;
+  cursor: pointer;
+}
+
+.bar {
+  display: block;
+  width: 25px;
+  height: 3px;
+  margin: 5px auto;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  background-color: #000;
+}
+
 .background {
   display: flex;
   justify-content: space-between;
@@ -391,6 +406,62 @@ p.copyright {
 .material-icons.md-48 {
   font-size: 48px;
 }
+@media (max-width: 1070px) {
+  header {
+    padding: 10px 300px;
+  }
+
+  .detalhe-01,
+  .detalhe-02 {
+    display: none;
+  }
+
+  .logo img {
+    width: 80px;
+  }
+
+  nav ul {
+    justify-content: space-around;
+  }
+
+  nav ul li a {
+    padding: 20px 10px;
+  }
+
+  nav ul {
+    width: auto;
+
+    padding: 0;
+  }
+
+  nav ul li:not(:last-child) {
+    margin-right: 10px;
+  }
+
+  nav ul li {
+    width: auto;
+
+    padding: 0;
+  }
+
+  .detalhe-01 {
+    position: absolute;
+    height: 0.23em;
+    width: 1.23em;
+    background-color: #24aeda;
+    border-radius: 3px;
+    margin: 17px 45px;
+  }
+
+  .detalhe-02 {
+    position: absolute;
+    height: 0.23em;
+    width: 1.23em;
+    background-color: #24aeda;
+    border-radius: 3px;
+    margin: 17px -200px;
+  }
+}
 @media (max-width: 1440px) {
   header {
     padding: 10px 300px;
@@ -443,44 +514,55 @@ p.copyright {
   }
 }
 @media (max-width: 768px) {
-  nav ul li a {
-    padding: 20px;
+  .other-1 {
+    display: block;
   }
-
   .detalhe-01,
   .detalhe-02 {
     display: none;
   }
 
-  .material-symbols-outlined.menu {
+  .hamburger {
     display: block;
+    margin-left: 100px;
+    z-index: 1001;
   }
 
-  header {
-    padding: 10px 40px;
-    padding-left: -400s;
+  .hamburger.active .bar:nth-child(2) {
+    opacity: 0;
   }
 
-  nav ul {
-    display: none;
+  .hamburger.active .bar:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+  }
+
+  .hamburger.active .bar:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+  }
+
+  .nav-menu {
+    position: fixed;
+    left: -100%;
+    top: 70px;
+    gap: 0;
     flex-direction: column;
-    align-items: center;
+    background-color: #097c8c;
     width: 100%;
+    text-align: center;
+    transition: 0.3s;
+    z-index: 1000;
   }
 
-  .logo img {
-    width: 80px;
-    flex-grow: 0;
-    margin-right: auto;
+  .nav-item {
+    margin: 16px 0;
   }
 
-  nav ul.active {
-    display: flex;
+  .nav-menu.active {
+    left: 0;
   }
 
-  .logo,
-  .material-symbols-outlined.menu {
-    padding: 0 125px 0 100px;
+  .logo {
+    margin-left: -250px;
   }
 
   .background {
