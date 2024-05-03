@@ -36,5 +36,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | E-mail         | String            | E-mail do usuário para login              | usuario@gmail.com                              |
-| Dicas do dia   | Texto             | Dica de segurança                         | Saiba as caracteristicas de golpes utilizando o pix                      
+| Dicas do dia   | Texto             | Dica de segurança                         | Como previnir golpes que utilizam o pix                      
+
+
+## Cadastro de medicamentos
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| nome         | String            | nome do medicamento              | remedioX                          |
+| quantidade   | String             | quantidade do medicamento, pode ser em numeros (capsulas) ou em ml      | 2     |              
+| horario         | Time           | Horarios dos medicamentos             | 10:00hrs                           |
+| descrição      | String           | Campo para observações do medicamento  | Lembre-se de manter o remedio na geladeira |
 
