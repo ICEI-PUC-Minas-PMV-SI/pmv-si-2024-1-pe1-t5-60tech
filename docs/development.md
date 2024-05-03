@@ -45,8 +45,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | E-mail         | String            | E-mail do usuário para login              | usuario@gmail.com                              |
-| Dicas do dia   | Texto             | Dica de segurança                         | Como previnir golpes que utilizam o pix                      
-
+| Dicas do dia   | Texto             | Dica sobre qualquer assunto                        | Como previnir golpes que utilizam o pix        |              
+| Dicas do dia   | video             | video da dica selecionada                     | *video*        |
 
 ## Cadastro de medicamentos
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
@@ -63,4 +63,29 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | nome completo         | String            | nome do usuárop              | Alberto Silva                          |
 | e-mail   | String             | e-mail do usuário     | alberto@gmail.com    |              
 | senha         | String           | senha para acessar a plataforma           | @123alberto                          |
+| confirmar senha         | String           | senha para acessar a plataforma           | @123alberto                          |
 
+
+## Login
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| e-mail   | String             | e-mail do usuário     | alberto@gmail.com    |              
+| senha         | String           | senha para acessar a plataforma           | @123alberto                          |
+
+
+## Perfil
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| nome completo         | String            | nome do usuárop              | Alberto Silva                          |
+| e-mail   | String             | e-mail do usuário     | alberto@gmail.com    |              
+| senha         | String           | senha para acessar a plataforma           | @123alberto                          |
+
+
+## Tutoriais / dicas
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| titulo         | String            |titulo do tutorial / dica acessado              | Como compartilhar mensagem no whatsapp                        |
+| texto   | String             | descrição do tutorial / dica acessado     | Para compartilhar uma mensagem no whatsapp basta clicar no botão compartilhar...    |              
+| video         | video           | video conteúdo da dica / tutorial           |    *video*                      |
+| avalie         | botão           | botão de avaliar o tutorial / dica (com estrelas)         |        *botão + 5 estrelas*                 |
+| compartilhe         | botão           | botão que copia o link da página para compartilhar           | https://60+tech.com.br/como-enviar-fotos-no-whatsapp                         |
