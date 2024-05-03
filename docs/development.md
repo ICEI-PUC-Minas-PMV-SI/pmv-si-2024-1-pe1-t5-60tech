@@ -47,3 +47,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | horario         | Time           | Horarios dos medicamentos             | 10:00hrs                           |
 | descrição      | String           | Campo para observações do medicamento  | Lembre-se de manter o remedio na geladeira |
 
+
+## Cadastro de usuários
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| nome completo         | String            | nome do usuárop              | Alberto Silva                          |
+| e-mail   | String             | e-mail do usuário     | alberto@gmail.com    |              
+| senha         | String           | senha para acessar a plataforma           | @123alberto                          |
+
