@@ -61,6 +61,7 @@ nav ul li:not(:last-child) {
 }
 
 nav ul li a {
+  white-space: nowrap;
   text-decoration: none;
   color: #000;
   padding: 50px;
@@ -72,7 +73,7 @@ nav ul li a {
   width: 1.23em;
   background-color: #24aeda;
   border-radius: 3px;
-  margin: 17px 95px;
+  margin: 17px 90px;
 }
 
 .detalhe-02 {
@@ -81,7 +82,7 @@ nav ul li a {
   width: 1.23em;
   background-color: #24aeda;
   border-radius: 3px;
-  margin: 17px -143px;
+  margin: 17px -155px;
 }
 
 .logo {
@@ -406,65 +407,10 @@ p.copyright {
 .material-icons.md-48 {
   font-size: 48px;
 }
-@media (max-width: 1070px) {
-  header {
-    padding: 10px 300px;
-  }
 
-  .detalhe-01,
-  .detalhe-02 {
-    display: none;
-  }
-
-  .logo img {
-    width: 80px;
-  }
-
-  nav ul {
-    justify-content: space-around;
-  }
-
-  nav ul li a {
-    padding: 20px 10px;
-  }
-
-  nav ul {
-    width: auto;
-
-    padding: 0;
-  }
-
-  nav ul li:not(:last-child) {
-    margin-right: 10px;
-  }
-
-  nav ul li {
-    width: auto;
-
-    padding: 0;
-  }
-
-  .detalhe-01 {
-    position: absolute;
-    height: 0.23em;
-    width: 1.23em;
-    background-color: #24aeda;
-    border-radius: 3px;
-    margin: 17px 45px;
-  }
-
-  .detalhe-02 {
-    position: absolute;
-    height: 0.23em;
-    width: 1.23em;
-    background-color: #24aeda;
-    border-radius: 3px;
-    margin: 17px -200px;
-  }
-}
 @media (max-width: 1440px) {
   header {
-    padding: 10px 300px;
+    padding: 10px 200px;
   }
 
   .logo img {
@@ -472,7 +418,7 @@ p.copyright {
   }
 
   nav ul {
-    justify-content: space-around;
+    justify-content: center;
   }
 
   nav ul li a {
@@ -511,6 +457,93 @@ p.copyright {
     background-color: #24aeda;
     border-radius: 3px;
     margin: 17px -200px;
+  }
+  @media (max-width: 1400px) {
+    .detalhe-01,
+    .detalhe-02 {
+      display: none;
+    }
+  }
+  @media (max-width: 1070px) {
+    header {
+      padding: 10px 200px;
+    }
+
+    .detalhe-01,
+    .detalhe-02 {
+      display: none;
+    }
+
+    .logo img {
+      width: 80px;
+    }
+
+    nav ul {
+      justify-content: space-around;
+    }
+
+    nav ul li a {
+      padding: 20px 10px;
+    }
+
+    nav ul {
+      width: auto;
+
+      padding: 0;
+    }
+
+    nav ul li:not(:last-child) {
+      margin-right: 10px;
+    }
+
+    nav ul li {
+      width: auto;
+
+      padding: 0;
+    }
+  }
+  @media (max-width: 1050px) {
+    .logo {
+      margin-right: 30px; /* Aumenta a margem à direita da logo */
+    }
+  }
+  @media (max-width: 1070px) {
+    header {
+      padding: 10px 200px;
+    }
+
+    .detalhe-01,
+    .detalhe-02 {
+      display: none;
+    }
+
+    .logo img {
+      width: 80px;
+    }
+
+    nav ul {
+      justify-content: space-around;
+    }
+
+    nav ul li a {
+      padding: 20px 10px;
+    }
+
+    nav ul {
+      width: auto;
+
+      padding: 0;
+    }
+
+    nav ul li:not(:last-child) {
+      margin-right: 10px;
+    }
+
+    nav ul li {
+      width: auto;
+
+      padding: 0;
+    }
   }
 }
 @media (max-width: 768px) {
@@ -524,7 +557,9 @@ p.copyright {
 
   .hamburger {
     display: block;
-    margin-left: 100px;
+    position: absolute; /* Garante que o menu hambúrguer seja posicionado de forma absoluta dentro do cabeçalho */
+    right: 40px; /* Posiciona no canto direito */
+    top: 50px; /* Posiciona no topo do cabeçalho */
     z-index: 1001;
   }
 
@@ -543,7 +578,7 @@ p.copyright {
   .nav-menu {
     position: fixed;
     left: -100%;
-    top: 70px;
+    top: 120px;
     gap: 0;
     flex-direction: column;
     background-color: #097c8c;
@@ -562,7 +597,7 @@ p.copyright {
   }
 
   .logo {
-    margin-left: -250px;
+    margin-left: -180px;
   }
 
   .background {
