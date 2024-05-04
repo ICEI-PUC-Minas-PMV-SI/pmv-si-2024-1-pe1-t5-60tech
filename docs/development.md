@@ -56,6 +56,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | horario         | Time           | Horarios dos medicamentos             | 10:00hrs                           |
 | descrição      | String           | Campo para observações do medicamento  | Lembre-se de manter o remedio na geladeira |
 
+## Meus medicamentos
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| nome         | String            | nome do medicamento              | remedioX                          |
+| quantidade   | String             | quantidade do medicamento, pode ser em numeros (capsulas) ou em ml      | 2     |              
+| horario         | Time           | Horarios dos medicamentos             | 10:00hrs                           |
+| descrição      | String           | Campo para observações do medicamento  | Lembre-se de manter o remedio na geladeira |
+
 
 ## Cadastro de usuários
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
