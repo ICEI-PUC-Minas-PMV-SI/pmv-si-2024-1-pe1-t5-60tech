@@ -17,29 +17,29 @@
 </head>
 
 <body>
-  <header style="background-color: white;">
-    <span class="material-symbols-outlined seta"><a href="/src/index.html">arrow_back</a></span>
+  <header>
     <div class="logo">
       <img src="../img/logo.png" alt="Logo 60+ Tech">
     </div>
-    <span class="material-symbols-outlined menu">
-      menu
-    </span>
-    <nav>
+    <nav class="navbar">
       <span class="detalhe-01"></span>
       <span class="detalhe-02"></span>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="#sobre">Sobre nós</a></li>
-        <li><a href="#login">Login</a></li>
-        <li><a href="#registrar" class="other-1">Registrar-se</a></li>
+      <ul class="nav-menu">
+        <li class="nav-item"><a href="#home" class="nav-link">Home</a></li>
+        <li class="nav-item"><a href="#sobre" class="nav-link">Sobre nós</a></li>
+        <li class="nav-item"><a href="#login" class="nav-link">Login</a></li>
+        <li class="nav-item"><a href="#registrar" class="other-1" class="nav-link">Registrar-se</a></li>
       </ul>
+      <div class="hamburger">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </div>
     </nav>
   </header>
   <main style="background-color: #f4fdff;">
     <h1 style="text-align: center;">Tutoriais</h1>
     <p style="text-align: center;">Clique sobre o aplicativo escolhido para ver os tutoriais sobre ele.</p>
-
     <div class="cards">
       <div class="box tutoriais">
         <a href="whatsapp.html"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="248" height="248" viewBox="0 0 48 48" style="margin-left: 6px;">
@@ -116,8 +116,6 @@
           </a> </button>
       </div>
     </div>
-
-
   </main>
   <footer>
     <nav>
@@ -129,8 +127,7 @@
     </nav>
     <p class="copyright"> 2024 60+ TECH - Todos Direitos Reservados <span class="material-icons md-18 orange">copyright</span></p>
   </footer>
-
-  <script src="./script.js"></script>
+  <script src="/src/js/menu.js"></script>
 </body>
 
 </html>
