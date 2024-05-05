@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>60+ Tech</title>
   <link rel="stylesheet" href="/src/css/styles-index.css">
-  <link rel="stylesheet" href="/src/css/styles-conteudo-dicas.css">
+  <link rel="stylesheet" href="/src/css/styles-remedios.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap">
@@ -17,44 +18,61 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 </head>
 
+
 <body>
   <header>
-    <div class="logo">
-      <img src="../img/logo.png" alt="Logo 60+ Tech">
-    </div>
-    <span class="material-symbols-outlined menu">
-      menu
-    </span>
-    <nav>
+    <span class="material-symbols-outlined seta"><a href="/src/index.html" /">arrow_back</a></span>
+    <nav class="navbar">
+      <div class="logo">
+        <img src="../img/logo.png" alt="Logo 60+ Tech">
+      </div>
       <span class="detalhe-01"></span>
       <span class="detalhe-02"></span>
-      <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#sobre">Sobre nós</a></li>
-        <li><a href="#login">Login</a></li>
-        <li><a href="#registrar" class="other-1">Registrar-se</a></li>
+      <ul class="nav-menu">
+        <li class="nav-item"><a href="#home" class="nav-link">Home</a></li>
+        <li class="nav-item"><a href="#sobre" class="nav-link">Sobre nós</a></li>
+        <li class="nav-item"><a href="#login" class="nav-link">Login</a></li>
+        <li class="nav-item"><a href="#registrar" class="other-1" class="nav-link">Registrar-se</a></li>
       </ul>
+      <div class="hamburger">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </div>
     </nav>
   </header>
-
+  <h4 style="margin-left: 2%;">Cadastro de Remédios</h4>
   <main>
-    <div class="content-box">
-      <h1>Como verificar a veracidade de um boleto bancário</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a nibh nisi. Sed nec magna tincidunt, viverra felis nec, aliquet risus.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a nibh nisi.</p>
-      <iframe src="https://www.youtube.com/embed/2nFAXBMpkrk?si=6ydSTFaP0VvcFtw_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <div class="action-container">
-        <button class="button">Avalie esse conteúdo</button>
-        <div class="stars" onclick="setRating(5)">
-          <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-        </div>
+    <div class="cards">
+      <div class="box conteudo">
+        <p style="font-size: xx-large; padding-bottom: 20px; text-align: center;">Cadastro de Medicamentos </p>
+        <form>
+          <label class="box-text" for="nome">Nome:</label>
+          <input type="text" id="nome" name="nome"><br><br>
+
+
+          <label class="box-text" for="quantidade">Quantidade:</label>
+          <input type="number" id="quantidade" name="quantidade"><br><br>
+
+
+          <label class="box-text" for="horario">Horário:</label>
+          <input type="time" id="horario" name="horario"><br><br>
+
+
+          <label class="obs" for="observacao" id="obs-btn">Observação:</label>
+          <input type="text" id="observacao" name="observacao"><br><br>
+
+
+          <div class="form-buttons">
+            <button class="btn cadastro">Cadastrar</button>
+            <!-- <a href="meus-remedios.html"> -->
+            <button class="btn remedios">Meus Remédios</button>
+            </a>
+          </div>
+        </form>
       </div>
-      <button class="button">Compartilhe</button>
     </div>
   </main>
-
-
-
   <footer>
     <nav>
       <ul>
@@ -65,8 +83,7 @@
     </nav>
     <p class="copyright"> 2024 60+ TECH - Todos Direitos Reservados <span class="material-icons md-18 orange">copyright</span></p>
   </footer>
-
-  <script src="../src/js/star.js"></script>
+  <script src="/src/js/menu.js"></script>
 </body>
 
 </html>

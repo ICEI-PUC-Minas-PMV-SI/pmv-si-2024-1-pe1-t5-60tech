@@ -16,21 +16,23 @@
 </head>
 <body>
   <header>
-    <div class="logo">
-      <img src="./img/logo.png" alt="Logo 60+ Tech">
-    </div>
-    <span class="material-symbols-outlined menu">
-      menu
-    </span>
-    <nav>
+    <nav class="navbar">
+      <div class="logo">
+        <img src="./img/logo.png" alt="Logo 60+ Tech">
+      </div>
       <span class="detalhe-01"></span>
       <span class="detalhe-02"></span>
-      <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#sobre">Sobre nós</a></li>
-        <li><a href="#login">Login</a></li>
-        <li><a href="#registrar" class="other-1">Registrar-se</a></li>
+      <ul class="nav-menu">
+        <li class="nav-item"><a href="#home" class="nav-link">Home</a></li>
+        <li class="nav-item"><a href="#sobre" class="nav-link">Sobre nós</a></li>
+        <li class="nav-item"><a href="#login" class="nav-link">Login</a></li>
+        <li class="nav-item"><a href="#registrar" class="other-1" class="nav-link">Registrar-se</a></li>
       </ul>
+      <div class="hamburger">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </div>
     </nav>
   </header>
   <div class="background">
@@ -49,7 +51,7 @@
       <div class="servico">
         <button class="main-btn"><span class="material-symbols-outlined tutorial">
             subscriptions
-          </span><a href="/pages/tutoriais.html">Tutoriais </a></button>
+          </span><a href="/src/pages/tutoriais.html" class="no-underline">Tutoriais </a></button>
         <div class="descricao">
           <span class="main-detalhe-01"></span>
           <div class="box">
@@ -73,7 +75,7 @@
       <div class="servico">
         <button class="main-btn"><span class="material-symbols-outlined seguranca">
             verified_user
-          </span>Segurança</button>
+          </span></span><a href="/src/pages/dicas-segurança.html" class="no-underline">Segurança </a> </button>
         <div class="descricao">
           <span class="main-detalhe-03"></span>
           <div class="box">
@@ -88,9 +90,9 @@
         <div class="dicas">
           <h2>Dica do Dia</h2>
           <div class="video">
-            <p>Saiba como identificar se um boleto foi emitido por um banco real e é reconhecido...</p>
-            <a href="">VEJA MAIS! -></a>
-            <iframe src="https://www.youtube.com/embed/jK50H3HOMRE?si=vGBVZJOnBn47FZ4V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Descubra como reconhecer golpes virtuais e proteja-se contra fraudes online!</p>
+            <a href="/src/pages/dica-do-dia.html">VEJA MAIS! -></a>
+            <iframe src="https://www.youtube.com/embed/n7-48nJXtr8?si=gkvZhme6dkJS_-2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </div>
         </div>
       </div>
@@ -108,7 +110,7 @@
     <p class="copyright"> 2024 60+ TECH - Todos Direitos Reservados <span class="material-icons md-18 orange">copyright</span></p>
   </footer>
 
-  <script src="./script.js"></script>
+  <script src="/src/js/menu.js"></script>
 </body>
 
 </html>

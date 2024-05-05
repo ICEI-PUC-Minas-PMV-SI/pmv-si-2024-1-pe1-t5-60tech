@@ -5,20 +5,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>60+ Tech</title>
+  <link rel="stylesheet" href="/src/css/styles-index.css">
+  <link rel="stylesheet" href="/src/css/styles-dicas-segurança.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap">
-  <link rel="stylesheet" href="/src/css/styles-index.css">
-  <link rel="stylesheet" href="/src/css/styles-tutoriais.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
 </head>
 
-<body style="background-color: #e7fbff;">
+<body>
   <header>
-    <span class="material-symbols-outlined seta"><a href="whatsapp.html">arrow_back</a></span>
+    <span class="material-symbols-outlined seta"><a href="/src/index.html" /">arrow_back</a></span>
     <nav class="navbar">
       <div class="logo">
         <img src="../img/logo.png" alt="Logo 60+ Tech">
@@ -38,42 +38,27 @@
       </div>
     </nav>
   </header>
-  <h4 style="margin-left: 2%;">TUTORIAIS SOBRE O WHATSAPP</h4>
-  <main>
-    <div class="cards">
-      <div class="box conteudo">
-        <p style="font-size: xx-large;">Como adicionar e encontrar contatos no Whatsapp.</p><br>
-        <p>Precisa adicionar um novo contato? Ou adicionou um novo numero mas nao está encontrando a pessoa no Whatsapp?
-          <br>Clique no video abaixo para ver o video com o tutorial de como adicionar e encontrar contatos no Whatsapp.
-          <br><br>Não se esqueça de deixar sua avaliação ao final do vídeo e compartilhar com os amigos!
-        </p>
-        <br><iframe width="900" height="500" src="https://www.youtube.com/embed/tUM7hmdesBw?si=RDtqRxwa918HLHzh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <br><br><button class="btn avalie"><a href="">
-            <h3>Avalie</h3>
-          </a></button>
-        <input type="hidden" value="" class="flexy-product-review-rating">
-        <button type="button" class="btn btn-star" onclick="sendRating('1')">
-          <i class="fa fa-star"></i>
-        </button>
-        <button type="button" class="btn btn-star" onclick="sendRating('2')">
-          <i class="fa fa-star"></i>
-        </button>
-        <button type="button" class="btn btn-star" onclick="sendRating('3')">
-          <i class="fa fa-star"></i>
-        </button>
-        <button type="button" class="btn btn-star" onclick="sendRating('4')">
-          <i class="fa fa-star"></i>
-        </button>
-        <button type="button" class="btn btn-star" onclick="sendRating('5')">
-          <i class="fa fa-star"></i>
-        </button>
 
-        <br><br><button class="btn compartilhe"><a href="">
-            <h3>Compartilhe</h3>
+  <main>
+    <h3 style="text-align: center;"><b>DICAS DE SEGURANÇA</b></h3>
+    <div class="cards">
+      <div class="box">
+        <img src="/src/img/pix-logo.png" alt="">
+        <p>Ao utilizar o PIX, evite compartilhar suas chaves em redes sociais ou sites não confiáveis. Verifique sempre os dados do recebedor antes de confirmar a transferência e utilize senhas seguras para proteger suas chaves e contas.</p>
+        <button class="btn"><a href="pix.html">
+            <h3>Leia Mais</h3>
+          </a> </button>
+      </div>
+      <div class="box">
+        <img src="/src/img/boleto.png" alt="">
+        <p>Sempre verifique se o código de barras e os dados do beneficiário estão corretos antes de efetuar o pagamento. Evite acessar links de boletos recebidos por e-mail e prefira gerar boletos diretamente no site do banco.</p>
+        <button class="btn"><a href="boleto.html">
+            <h3>Leia Mais</h3>
           </a> </button>
       </div>
     </div>
   </main>
+
   <footer>
     <nav>
       <ul>
@@ -84,6 +69,7 @@
     </nav>
     <p class="copyright"> 2024 60+ TECH - Todos Direitos Reservados <span class="material-icons md-18 orange">copyright</span></p>
   </footer>
+
   <script src="/src/js/menu.js"></script>
 </body>
 

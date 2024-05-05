@@ -37,16 +37,18 @@ Madalena Gonçalves é uma professora de 60 anos que, devido ao seu trabalho e �
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário faça login | ALTA |  
-|RF-002| A aplicação deve permitir que o usuário gerencie suas informações (Cadastro)   | MÉDIA |
-|RF-003| A aplicação deve permitir que o usuário cadastre seus medicamentos e horários | ALTA |  
-|RF-004| A aplicação deve notificar os horários cadastrados pelo usuário para o consumo de medicamentos | MÉDIA | 
-|RF-005| A aplicação deve permitir o usuário acessar dicas sobre redes sociais | ALTA |
-|RF-006| A aplicação deve permitir o usuário acessar tutoriais sobre ferramentas de tecnologia | ALTA |
-|RF-007| A aplicação deve permitir o usuário avaliar a dica, suporte, tutorial para relevância da informação | MÉDIA | 
-|RF-008| A aplicação deve permitir que o usuário compartilhe o conteúdo do site | ALTA |
-|RF-009| A aplicação deve dar suporte e dicas sobre segurança para o usuário | ALTA |
-|RF-010| A aplicação deve permitir que o usuário acesse uma dica do dia | MÉDIA |
+|RF-001| A aplicação deve permitir que o usuário faça login | ALTA |
+|RF-002| A aplicação deve permitir que o usuário faça seu cadastro | ALTA |
+|RF-003| A aplicação deve permitir que o usuário gerencie suas informações (Perfil)   | MÉDIA |
+|RF-004| A aplicação deve permitir que o usuário visualize as informações do site (sobre nós) | BAIXA |
+|RF-005| A aplicação deve permitir que o usuário cadastre seus medicamentos e horários | ALTA |
+|RF-006| A aplicação deve permitir que o usuário visualize seus medicamentos cadastrados | MÉDIA |
+|RF-007| A aplicação deve permitir o usuário acessar dicas sobre segurança para o usuário | ALTA |
+|RF-008| A aplicação deve permitir o usuário acessar tutoriais sobre ferramentas de tecnologia | ALTA |
+|RF-009| A aplicação deve permitir o usuário avaliar a dica, suporte, tutorial para relevância da informação | MÉDIA |
+|RF-010| A aplicação deve permitir que o usuário compartilhe o conteúdo do site | MÉDIA | 
+|RF-011| A aplicação deve permitir que o usuário visualize as dicas do dia | MÉDIA | 
+|RF-012| A aplicação deve notificar os horários cadastrados pelo usuário para o consumo de medicamentos | ALTA | 
 
 
 # Requisitos Não Funcionais:

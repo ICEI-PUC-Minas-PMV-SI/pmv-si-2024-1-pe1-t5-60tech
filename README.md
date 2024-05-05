@@ -11,7 +11,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Gabriel Nascimento
-* Gabrielle Vitoria Gomes Almeida 
 * Lucas Souza Diniz
 * Paulo Júlio Gonçalves Santos 
 * Pedro Henrique Correia Cassimiro
@@ -34,7 +33,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 # Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="src"> Código Fonte</a></li>
 
 # Apresentação
 

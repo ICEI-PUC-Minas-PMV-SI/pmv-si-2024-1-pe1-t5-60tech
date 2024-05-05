@@ -1,3 +1,7 @@
+body {
+  background-color: #e7fbff;
+}
+
 .btn.tutoriais {
   border: none;
   border-radius: 8px;
@@ -47,7 +51,7 @@
   justify-content: center;
 }
 
-.box.whatsapp {
+.box {
   background-color: white;
   padding: 1.5%;
   margin: 20px;
