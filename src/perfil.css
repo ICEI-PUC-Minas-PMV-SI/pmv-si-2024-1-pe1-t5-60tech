@@ -1,5 +1,10 @@
 /*CABEÇALHO INICIO*/
 
+.voltar img{
+  margin-left: 15px;
+  margin-right: 50px;
+}
+
 * {
   margin: 0;
   padding: 0;
