@@ -33,9 +33,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-004| A aplicação deve permitir que o usuário visualize as informações do site (sobre nós) | Pedro | sobre-nos.html
 |RF-005| A aplicação deve permitir que o usuário cadastre seus medicamentos e horários | Gabriel |  cadastro-remedio.html
 |RF-006| A aplicação deve permitir que o usuário visualize seus medicamentos cadastrados | Gabriel | meus-remedios.html
-|RF-007| A aplicação deve permitir o usuário acessar dicas sobre segurança para o usuário | Lucas | dicas-segurança.html
-|RF-008| A aplicação deve permitir o usuário acessar tutoriais sobre ferramentas de tecnologia | Yasmin | tutoriais.html
-|RF-011| A aplicação deve permitir que o usuário visualize as dicas do dia | Lucas e Yasmin | index.html
+|RF-007| A aplicação deve permitir o usuário acessar, avaliar e compartilhar dicas sobre segurança para o usuário | Lucas | dicas-segurança.html
+|RF-008| A aplicação deve permitir o usuário acessar, avaliar e compartilhar tutoriais sobre ferramentas de tecnologia | Yasmin | tutoriais.html
+|RF-009| A aplicação deve permitir que o usuário visualize as dicas do dia | Lucas e Yasmin | index.html
 
 ## Descrição das estruturas:
 
