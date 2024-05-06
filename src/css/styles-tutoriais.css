@@ -14,6 +14,22 @@
   background-color: #288c9a !important;
 }
 
+.cards .conteudo {
+  background-color: white;
+  padding: 2%;
+  width: 80%;
+  height: 100%;
+  border: 0.1px solid #ccc;
+  box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.conteudo li{
+  text-indent:4em !important;
+}
+
 .btn.tutoriais a,
 .btn.compartilhe a,
 .btn.avalie a {
@@ -26,7 +42,7 @@
   padding: 1.5%;
   margin: 20px;
   width: 300px;
-  height: 350px;
+  height: 100%;
   border: 0.1px solid #ccc;
   box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
   box-sizing: border-box;
@@ -52,7 +68,7 @@
   padding: 1.5%;
   margin: 20px;
   width: 530px;
-  height: 600px;
+  height: 100%;
   border: 0.1px solid #ccc;
   box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
   box-sizing: border-box;
