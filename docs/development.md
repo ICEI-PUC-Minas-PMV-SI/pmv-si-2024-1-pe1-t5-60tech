@@ -27,8 +27,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Responsável | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| A aplicação deve permitir que o usuário faça login | Paulo |  - 
-|RF-002| A aplicação deve permitir que o usuário faça seu cadastro | Paulo |  - 
+|RF-001| A aplicação deve permitir que o usuário faça login | Paulo |  login page.html 
+|RF-002| A aplicação deve permitir que o usuário faça seu cadastro | Paulo |   registration page.html
 |RF-003| A aplicação deve permitir que o usuário gerencie suas informações (Perfil)   | Pedro | perfil.html
 |RF-004| A aplicação deve permitir que o usuário visualize as informações do site (sobre nós) | Pedro | sobre-nos.html
 |RF-005| A aplicação deve permitir que o usuário cadastre seus medicamentos e horários | Gabriel |  cadastro-remedio.html
