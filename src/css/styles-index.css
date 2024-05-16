@@ -184,6 +184,10 @@ nav ul li a {
   width: 200px;
 }
 
+.form button:hover {
+  background-color: #288c9a !important;
+}
+
 main {
   max-width: 1200px;
   margin: 0 auto;
@@ -221,6 +225,10 @@ main {
   font-size: 1.2em;
   cursor: pointer;
   text-transform: uppercase;
+}
+
+.main-btn:hover {
+  background-color: goldenrod;
 }
 
 .main-btn span {
@@ -288,11 +296,15 @@ img {
   display: block;
 }
 
+.dicas .video a:hover {
+  font-weight:900;
+}
+
 .dicas iframe {
   padding-bottom: 20px;
   padding-right: 20px;
   width: 440px;
-  height: 200px;
+  height: 300px;
 }
 
 .box.dicas {
