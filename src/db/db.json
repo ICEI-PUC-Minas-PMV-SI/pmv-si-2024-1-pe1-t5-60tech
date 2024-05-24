@@ -1,4 +1,11 @@
+
 {
     "usuarios": [
+    ],
+    
+    "dicas": [
+      { "id": 1, "conteudo": "dicas01.html" },
+      { "id": 2, "conteudo": "dicas02.html" },
+      { "id": 3, "conteudo": "dicas03.html" }
     ]
-}
+  }

@@ -64,7 +64,7 @@
 
 
           <div class="form-buttons">
-            <button class="btn cadastro">Cadastrar</button>
+            <button type="button" class="btn cadastro" onclick="showPopup()">Cadastrar</button>
             <button class="btn remedios">
               <a style="text-decoration: none; color: black;" href="./meus-remedios.html">
                 Meus Remédios</a>
@@ -84,7 +84,18 @@
     </nav>
     <p class="copyright"> 2024 60+ TECH - Todos Direitos Reservados <span class="material-icons md-18 orange">copyright</span></p>
   </footer>
+  <script src="/src/js/popup.js"></script>
   <script src="/src/js/menu.js"></script>
+
+  <div id="popup" class="popup">
+    <div class="popup-content">
+      <p>Remédio cadastrado.</p>
+      <p>Acesse os meus medicamentos.</p>
+      <button class="popup-btn" onclick="closePopup()">Ok, Fechar</button>
+    </div>
+  </div>
+
+
 </body>
 
 </html>
