@@ -1,11 +1,13 @@
-document.addEventListener("DOMContentLoaded", function() {
-  fetch('http://localhost:3000/dicas')
-    .then(response => response.json())
-    .then(dicas => {
-      const dicaAleatoria = dicas[Math.floor(Math.random() * dicas.length)];
-      
-      
-      document.getElementById('dica-container').innerHTML = `<object type="text/html" data="${dicaAleatoria.conteudo}" ></object>`;
-    })
-    .catch(error => console.error('Erro ao carregar dicas:', error));
+document.addEventListener('DOMContentLoaded', function() {
+  const pages = [
+    '/src/pages/dicas-do-dia/dica01.html',
+    '/src/pages/dicas-do-dia/dica02.html',
+    '/src/pages/dicas-do-dia/dica03.html'
+  ];
+
+  const randomPage = pages[Math.floor(Math.random() * pages.length)];
+
+  setTimeout(() => {
+    window.location.href = randomPage;
+  }, 2000); 
 });
