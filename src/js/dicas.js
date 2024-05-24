@@ -5,9 +5,11 @@ document.addEventListener('DOMContentLoaded', function() {
     '/src/pages/dicas-do-dia/dica03.html'
   ];
 
-  const randomPage = pages[Math.floor(Math.random() * pages.length)];
+  document.getElementById('random-link').addEventListener('click', function(event) {
+    event.preventDefault();
 
-  setTimeout(() => {
+    const randomPage = pages[Math.floor(Math.random() * pages.length)];
+
     window.location.href = randomPage;
-  }, 2000); 
+  });
 });
