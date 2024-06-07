@@ -31,121 +31,68 @@
 **Resultado esperado** | O site responder em até 3 segundos.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT05 -Permitir a visualização em modo escuro**
+**Caso de Teste** | **CT05 -Permitir que o usuário cadastre medicamentos**
  :--------------: | ------------
-**Procedimento**  | 1) O site deve permitir o modo escuro após o acionamento do botão "modo escuro".
-**Requisitos associados** | RNF-005
-**Resultado esperado** | O site mudar para o modo escuro.
-**Resultado obtido** | Sucesso.
-
-**Caso de Teste** | **CT06 -Permitir que o usuário cadastre uma lista de gastos mensais**
- :--------------: | ------------
-**Procedimento**  | 1) O usuário deverá criar uma lista de gastos.
+**Procedimento**  | 1) O usuário deverá cadastrar medicamentos.
 **Requisitos associados** | RF-001
-**Resultado esperado** | O usuário conseguir criar uma lista.
-**Dados de entrada** | Inserção de dados válidos no formulário da lista.
+**Resultado esperado** | O usuário conseguir cadastrar medicamentos.
+**Dados de entrada** | Inserção de dados válidos no formulário do cadastro.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT07 -Permitir que o usuário cadastre uma categoria de gasto na lista**
+**Caso de Teste** | **CT06 -Emitir um alerta do horário para consumir o medicamento**
  :--------------: | ------------
-**Procedimento**  | 1) O usuário deverá criar uma lista de gastos. 2) O usuário deve escolher uma categoria de gasto para aquela lista.
+**Procedimento**  | 1) O usuário deverá cadastrar o horário para o consumo. 2) O usuário deve estar logado quando der o horário do medicamento ..
 **Requisitos associados** | RF-002
-**Resultado esperado** | O usuário conseguir escolher uma categoria.
-**Dados de entrada** | Inserção de dados válidos no formulário da lista.
+**Resultado esperado** |Emitir um alerta do horário de se medicar.
+**Dados de entrada** | Inserção de dados válidos no cadastro de horários.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT08 -Emitir um alerta de excedente de gasto**
+**Caso de Teste** | **CT07 -Apresentar videos sobre dicas solicitadas**
  :--------------: | ------------
-**Procedimento**  | 1) O usuário deverá estipular um limite de orçamento. 2) O usuário deverá gastar mais do que o estipulado no limite de orçamento..
+**Procedimento**  | 1) O usuário deverá selecionar dicas. 2) O usuário deverá escolher o tipo de dicas desejadas.
 **Requisitos associados** | RF-003
-**Resultado esperado** |Emitir um alerta de excedente de gasto.
-**Dados de entrada** | Inserção de dados válidos no limite de orçamento.
+**Resultado esperado** |Permitir a vizualização de videos ou textos dicas.
+**Dados de entrada** | Selecionar dicas sugeridas.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT09 -Permitir que o usuário defina uma meta de orçamento mensal**
- :--------------: | ------------
-**Procedimento**  | 1) O usuário deverá estipular um limite de orçamento. 
-**Requisitos associados** | RF-004
-**Resultado esperado** |Permitir a criação de um limite de orçamento.
-**Dados de entrada** | Inserção de dados válidos no limite de orçamento.
-**Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT10 -Personalização da lista de despesas por necessidade do usuário**
- :--------------: | ------------
-**Procedimento**  | 1) O usuário deverá criar uma lista. 2) O usuário deverá editar uma lista conforme sua necessidade. 
-**Requisitos associados** | RF-005
-**Resultado esperado** |Permitir a personalização de uma lista.
-**Dados de entrada** | Inserção de dados válidos no formulário da lista.
-**Resultado obtido** | Sucesso.
-
-**Caso de Teste** | **CT11 -Emitir um gráfico com os gastos por tipos de despesas**
- :--------------: | ------------
-**Procedimento**  | 1) O usuário deverá criar uma lista. 2) O usuário deverá escolher o tipo de despesa de cada item. 3) Verificar o gráfico
-**Requisitos associados** | RF-006
-**Resultado esperado** |Permitir a vizualização de um gráfico por tipo de gasto.
-**Dados de entrada** | Inserção de dados válidos no formulário da lista.
-**Resultado obtido** | Sucesso.
- 
 
 ## Registro dos Testes de Software
 
 |*Caso de Teste* |*TC-01 - Responsividade *|
 |---|---|
 |Requisito Associado | RNF-001 - Usuários encontraram responsividade em diversas interfaces.|
-|Link do vídeo do teste realizado: |https://encurtador.com.br/yIPS4 | 
+--|Link do vídeo do teste realizado: |https://encurtador.com.br/yIPS4 | 
 
 |*Caso de Teste* |*TC-02 - Disponibilidade da Página *|
 |---|---|
 |Requisito Associado | RNF-002 - Site estar dispónivel para navegação.|
-|Link do vídeo do teste realizado: | https://encurtador.com.br/dBVX5 | 
+--|Link do vídeo do teste realizado: | https://encurtador.com.br/dBVX5 | 
 
 |*Caso de Teste* |*TC-03 - Cadastro e Utilização de Senha *|
 |---|---|
 |Requisito Associado | RNF-003 - Utilização de Senha para bloqueio.|
-|Link do vídeo do teste realizado: | https://encurtador.com.br/rsxJT | 
+--|Link do vídeo do teste realizado: | https://encurtador.com.br/rsxJT | 
 
 |*Caso de Teste* |*TC-04 - Tempo de Resposta de 3s *|
 |---|---| 
 |Requisito Associado | RNF-004 - Tempo de resposta de até a 3s para solicitação ao usuário.|
-|Link do vídeo do teste realizado: | https://encurtador.com.br/ipBM4 | 
+--|Link do vídeo do teste realizado: | https://encurtador.com.br/ipBM4 | 
 
-|*Caso de Teste* |*TC-05 - Permitir a visualização em modo escuro *|
+|*Caso de Teste* |*TC-005 - Permitir cadastro de medicamentos *|
 |---|---| 
-|Requisito Associado | RNF-005 - Mudança para o modo escuro.|
-|Link do vídeo do teste realizado: | https://shre.ink/lzuO | 
+|Requisito Associado | RF-001 - Criar um cadastro para medicamentos.|
+--|Link do vídeo do teste realizado: | https://encurtador.com.br/bABNU | 
 
-|*Caso de Teste* |*TC-06 - Permitir a criação de uma lista *|
+|*Caso de Teste* |*TC-07 - Permitir a escolha de dicas desejadas*|
 |---|---| 
-|Requisito Associado | RF-001 - Criar uma lista.|
-|Link do vídeo do teste realizado: | https://encurtador.com.br/bABNU | 
+|Requisito Associado | RF-002 - Selecionar dicas sugeridas.|
+--|Link do vídeo do teste realizado: | https://encurtador.com.br/swOZ4 |
 
-|*Caso de Teste* |*TC-07 - Permitir a escolha de uma categoria na lista de gastos *|
+|*Caso de Teste* |*TC-08 - Emitir um alerta do horário de se medicar *|
 |---|---| 
-|Requisito Associado | RF-002 - Cadastrar uma categotia.|
-|Link do vídeo do teste realizado: | https://encurtador.com.br/swOZ4 | 
-
-|*Caso de Teste* |*TC-08 - Emitir um alerta de excedente de gasto *|
-|---|---| 
-|Requisito Associado | RF-003 - Emitir um alerta de excedente de gasto.|
-|Link do vídeo do teste realizado: |  https://encurtador.com.br/oCGL6 |
-
-|*Caso de Teste* |*TC-09 - Permitir que o usuário defina uma meta de orçamento mensal *|
-|---|---| 
-|Requisito Associado | RF-004 - Permitir que o usuário defina uma meta de orçamento mensal.|
-|Link do vídeo do teste realizado: |https://encurtador.com.br/ryPRT | 
-
-|*Caso de Teste* |*TC-10 - Personalização da lista de despesas por necessidade do usuário *|
-|---|---| 
-|Requisito Associado | RF-005 - Permitir que o usuário personalize uma lista.|
-|Link do vídeo do teste realizado: |https://encurtador.com.br/aiAF9 | 
-
-|*Caso de Teste* |*TC-11 - Emitir um gráfico com os gastos por tipos de despesas *|
-|---|---| 
-|Requisito Associado | RF-006 - Emitir um gráfico de gastos.|
-|Link do vídeo do teste realizado: |https://encurtador.com.br/ceoK8 | 
-
-
-
+|Requisito Associado | RF-003 - Emitir um alerta para o horário do medicamento.|
+--|Link do vídeo do teste realizado: |  https://encurtador.com.br/oCGL6 |
 
 
 
@@ -165,92 +112,68 @@ Como meta futura, pretendemos manter o bom funcionamento dos tópicos aqui lista
 
 | Nº do Cenário | Descrição do cenário |
 |---------------|----------------------|
-| 1             | Você é uma pessoa consumista que deseja definir um orçamento mensal e receber um alerta de excedente de gastos. |
-| 2             | Você é uma pessoa iniciante em finanças que busca controlar seus gastos|
-| 3             | Você é uma pessoa endividada que busca controlar seus gastos mensais|
-| 4             | Você é uma dona de casa que precisa registrar suas compras por categoria|
-
+| 1             | Você é uma pessoa que costuma esquecer os medicamentos e horários de consumo e busca se lembrar do horário corretamente. |
+| 2             | Você é uma pessoa leiga em relação a tecnologia é deseja entender melhor como funciona a mesma. |
+| 3             | Você é uma pessoa que se sente vulnerável navegando na internet e busca aprender mais para se sentir segura. |
 
 
 
 ## Registro de Testes de Usabilidade
 
-Cenário 1: Você é uma pessoa consumista que deseja definir um orçamento mensal e receber um alerta de excedente de gastos.
+Cenário 1: Você é uma pessoa que costuma esquecer os medicamentos e horários de consumo e busca se lembrar do horário corretamente.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 4                    | 178.90 segundos                 |
-| 2       | SIM             | 4                    | 390.57 segundos                 |
-| **Média**|100%            | 4                    | 284.73 segundos                 |
-| **Tempo para conclusão pelo especialista**| SIM | 5| 100.5 segundos |
+| 1       | SIM             | 5                    | 72.17 segundos                 |
+| 2       | SIM             | 5                    | 64.42 segundos                 |
+| **Média**|100%            | 5                    | 68.28 segundos                 |
+| **Tempo para conclusão pelo especialista**| SIM | 5| 54.29 segundos |
 
     Comentários dos usuários: 
     
-   • O site é bem intuitivo e funciona bem, o cadastro das listas é feito de maneira simples e fácil. Acredito que a imagem na tela de gastos seja grande e desnecessária e que o campo de minhas metas poderia ser retirado, focando apenas nas listas de gastos
+   • O site é bem intuitivo e funciona bem, o cadastro dos medicamentos é feito de maneira simples e fácil. 
 
-   • O site é bem auto explicativo, porém as imagens estão grandes e atrapalham, o cadastro de lista poderia ser mais simplificado. Gostaria que tivesse a categoria "Beleza".
- 
 
-Cenário 2: Você é uma pessoa iniciante em finanças que busca controlar seus gastos.
+Cenário 2: Você é uma pessoa leiga em relação a tecnologia é deseja entender melhor como funciona a mesma.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 3                    | 240.08 segundos                 |
-| 2       | SIM             | 4                    | 265.37 segundos                 |
-| 3       | SIM             | 4                    | 214.21 segundos                 |
-| **Média**| 100%           | 3,6                  | 239.88 segundos                 |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 105.2 segundos|
+| 1       | SIM             | 5                    | 48.31 segundos                 |
+| 2       | SIM             | 4                    | 53.17 segundos                 |
+| **Média**| 100%           | 4,5                  | 50.74 segundos                 |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 37.06 segundos|
 
     Comentários dos usuários: 
     
-    • O site funciona bem e cumpre com sua proposta, porém as imagens estão grandes e poluem a tela. As listas de gastos poderiam ser mais objetivas. Na parte de cadastro do usuário poderia haver um aviso de "Caps Locks" ativa.
-
-    • Gostei do layout do site. As tabelas são simples e de fácil entendimento. As imagens atrapalham um pouco pois poluem a tela.
+    • O site funciona bem e cumpre com sua proposta.
+    
+    • Gostei do layout do site. Os vídeos e textos dicas são bem explicativos.
 
     • Poderia haver a opção de recuperar senha.
 
 
-Cenário 3: Você é uma pessoa endividada que busca controlar seus gastos mensais.
+Cenário 3: Você é uma pessoa que se sente vulnerável navegando na internet e busca aprender mais para se sentir seguro.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 4                    | 342.9 segundos                  |
-| 2       | SIM             | 5                    | 265.7 segundos                  |
-| 3       | SIM             | 4                    | 376.8 segundos                  |
-| 4       | SIM             | 4                    | 397.15 segundos                 |
-| **Média**| 100%           | 4,25                 | 345.63 segundos                 |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 90,21 segundos |
+| 1       | SIM             | 5                    | 82.90 segundos                  |
+| 2       | SIM             | 5                    | 73.76 segundos                  |           |
+| **Média**| 100%           | 5                 | 77.50 segundos                 |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 90.21 segundos |
 
     Comentários dos usuários: 
    
-    • O layout do site está bom e bem adaptado. Poderia melhorar o design. Poderia melhorar o cadastro de produtos na lista. Gostaria que tivesse a opção de redefinir senha. Aviso de Caps Lock seria bom.   
-    
-    • Acredito que as imagens atrapalham um pouco a vizualização. 
-
-
-Cenário 4: Você é uma Dona de Casa que busca cadastrar compras por categoria.
-
-| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
-|---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 4                    | 450.62 segundos                 |
-| **Média**| 100%           | 4                    | 450.62 segundos                 |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 95.57 segundos |
-
-    Comentários dos usuários: 
-    
-    • O sistema de cadastro de listas está muito bom e de facil entendimento. Gostaria de ter uma opção de recuperar a senha. As imagens poderiam ser um pouco menores.
-
-    • Site está muito bonito
-
+    • O layout do site está bom e bem adaptado.  
+   
 ## Avaliação dos Testes de Usabilidade
 
 
 Tomando como base os resultados obtidos, foi possível verificar que a aplicação web apresenta bons resultados quanto à taxa de sucesso na interação dos usuários, tendo em vista que os cenários propostos foram concluídos com sucesso.
 
- A aplicação obteve também uma boa satisfação subjetiva dos usuários no momento que realizavam os cenários propostos. Prova são as médias das avaliações em cada um dos cenários, que variou entre 4 (bom) e 5 (ótimo). É preciso salientar que em um dos cenários, houve uma avaliação 3(regular) e a média ficou em 3,6, provando ser necessário realizar alguns ajustes no site.
+ A aplicação obteve também uma boa satisfação subjetiva dos usuários no momento que realizavam os cenários propostos. Prova são as médias das avaliações em cada um dos cenários, que variou entre 4 (bom) e 5 (ótimo).
 
 Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrepância entre a média de tempo dos usuários e o tempo do especialista/desenvolvedor em todos os cenários. Tal discrepância, em certa medida, é esperada, tendo em vista que o desenvolvedor já tem prévio conhecimento de toda a interface da aplicação, do posicionamento dos elementos, lógica de organização das páginas, etc. Porém isso prova que necessitamos intervir e analisar os feedbacks para melhorarmos a usablidade e tempo dos usuários.
 
-Os comentários nos mostraram, no geral, que os usuários aprovaram a aplicação, porém gostariam que ela fosse mais simples e direta. Como meta, buscaremos analisar o tamanho das imagens, o design do site e alguns pontos do cadastro de listas. Algo que se mostrou relevante nos testes é que, quanto maior a familiaridade das pessoas com tecnologia, maior era a capacidade de utilizar e analisar as funcionalidades do site. Porém como nossa proposta busca facilitar o uso para todos os públicos, devemos focar em melhorar nossa aplicação web para que todos possam desfrutar das funcionalidade disponíveis.
+Os comentários nos mostraram, no geral, que os usuários aprovaram a aplicação. Algo que se mostrou relevante nos testes é que, quanto maior a familiaridade das pessoas com tecnologia, maior era a capacidade de utilizar e analisar as funcionalidades do site. Porém como nossa proposta busca facilitar o uso para todos os públicos, devemos focar em melhorar nossa aplicação web para que todos possam desfrutar das funcionalidade disponíveis.
 
 
