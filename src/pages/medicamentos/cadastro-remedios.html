@@ -74,6 +74,21 @@
       </div>
     </div>
   </main>
+  <div id="popup" class="popup">
+    <div class="popup-content">
+      <p>Remédio cadastrado.</p>
+      <p>Acesse os meus medicamentos.</p>
+      <button class="popup-btn" onclick="closePopup()">Ok, Fechar</button>
+    </div>
+  </div>
+
+  <div id="medPopup" class="popup">
+    <div class="popup-content">
+      <span class="close" onclick="closeMedPopup()">&times;</span>
+      <h2>Meus Remédios</h2>
+      <div id="medList"></div>
+    </div>
+  </div>
   <footer>
     <nav>
       <ul>
@@ -84,17 +99,9 @@
     </nav>
     <p class="copyright"> 2024 60+ TECH - Todos Direitos Reservados <span class="material-icons md-18 orange">copyright</span></p>
   </footer>
+  <script src="/src/js/medicamentos.js"></script>
   <script src="/src/js/popup.js"></script>
   <script src="/src/js/menu.js"></script>
-
-  <div id="popup" class="popup">
-    <div class="popup-content">
-      <p>Remédio cadastrado.</p>
-      <p>Acesse os meus medicamentos.</p>
-      <button class="popup-btn" onclick="closePopup()">Ok, Fechar</button>
-    </div>
-  </div>
-
 
 </body>
 

@@ -126,7 +126,20 @@ body {
     padding: 70px;
   }
   
-  .popup {
+  .fixed-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #00aaff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Estilo do popup */
+.popup {
     display: none;
     position: fixed;
     top: 50%;
@@ -140,13 +153,13 @@ body {
     text-align: center;
     z-index: 1000;
     animation: popup-animation 0.3s ease-in-out;
-  }
-  
-  .popup-content {
+}
+
+.popup-content {
     position: relative;
-  }
-  
-  .popup-btn {
+}
+
+.popup-btn {
     background-color: #24aeda;
     color: white;
     border: none;
@@ -154,19 +167,27 @@ body {
     padding: 10px 20px;
     cursor: pointer;
     margin-top: 20px;
-  }
-  
-  .popup-btn:hover {
+}
+
+.popup-btn:hover {
     background-color: #1a8a9d;
-  }
-  
-  @keyframes popup-animation {
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+@keyframes popup-animation {
     from {
-      opacity: 0;
-      transform: translate(-50%, -60%);
+        opacity: 0;
+        transform: translate(-50%, -60%);
     }
     to {
-      opacity: 1;
-      transform: translate(-50%, -50%);
+        opacity: 1;
+        transform: translate(-50%, -50%);
     }
-  }
+}
