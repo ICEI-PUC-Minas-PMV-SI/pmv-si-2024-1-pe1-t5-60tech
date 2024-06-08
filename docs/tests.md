@@ -112,9 +112,9 @@ Como meta futura, pretendemos manter o bom funcionamento dos tópicos aqui lista
 
 | Nº do Cenário | Descrição do cenário |
 |---------------|----------------------|
-| 1             | Você é uma pessoa que costuma esquecer os medicamentos e horários de consumo e busca se lembrar do horário corretamente. |
-| 2             | Você é uma pessoa leiga em relação a tecnologia é deseja entender melhor como funciona a mesma. |
-| 3             | Você é uma pessoa que se sente vulnerável navegando na internet e busca aprender mais para se sentir segura. |
+| 1             | Você é uma pessoa que costuma esquecer os medicamentos e horários de consumo e quer cadastrar horários para receber notificações do medicamento|
+| 2             | Você é uma pessoa leiga em relação a tecnologia e deseja enenteder melhor como funciona o whatsapp. |
+| 3             | Você é uma pessoa que se sente vulnerável navegando na internet e quer receber dicas de segurança. |
 
 
 
@@ -129,11 +129,6 @@ Cenário 1: Você é uma pessoa que costuma esquecer os medicamentos e horários
 | **Média**|100%            | 5                    | 68.28 segundos                 |
 | **Tempo para conclusão pelo especialista**| SIM | 5| 54.29 segundos |
 
-    Comentários dos usuários: 
-    
-   • O site é bem intuitivo e funciona bem, o cadastro dos medicamentos é feito de maneira simples e fácil. 
-
-
 Cenário 2: Você é uma pessoa leiga em relação a tecnologia é deseja entender melhor como funciona a mesma.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
@@ -142,15 +137,6 @@ Cenário 2: Você é uma pessoa leiga em relação a tecnologia é deseja entend
 | 2       | SIM             | 4                    | 53.17 segundos                 |
 | **Média**| 100%           | 4,5                  | 50.74 segundos                 |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 37.06 segundos|
-
-    Comentários dos usuários: 
-    
-    • O site funciona bem e cumpre com sua proposta.
-    
-    • Gostei do layout do site. Os vídeos e textos dicas são bem explicativos.
-
-    • Poderia haver a opção de recuperar senha.
-
 
 Cenário 3: Você é uma pessoa que se sente vulnerável navegando na internet e busca aprender mais para se sentir seguro.
 
@@ -161,9 +147,6 @@ Cenário 3: Você é uma pessoa que se sente vulnerável navegando na internet e
 | **Média**| 100%           | 5                 | 77.50 segundos                 |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 90.21 segundos |
 
-    Comentários dos usuários: 
-   
-    • O layout do site está bom e bem adaptado.  
    
 ## Avaliação dos Testes de Usabilidade
 
