@@ -89,7 +89,7 @@
 |Requisito Associado | RF-001 - Criar um cadastro para medicamentos.|
 --|Link do vídeo do teste realizado: | https://encurtador.com.br/bABNU | 
 
-|*Caso de Teste* |*TC-07 - Permitir a escolha de dicas desejadas*|
+|*Caso de Teste* |*TC-07 - Permitir a escolha de dicas de segurança desejadas*|
 |---|---| 
 |Requisito Associado | RF-002 - Selecionar dicas de segurança desejadas.|
 --|Link do vídeo do teste realizado: | https://encurtador.com.br/swOZ4 |
