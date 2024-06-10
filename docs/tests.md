@@ -77,7 +77,12 @@
 |*Caso de Teste* |*TC-03 - Cadastro e Utilização de Senha *|
 |---|---|
 |Requisito Associado | RNF-003 - Utilização de Senha para bloqueio.|
---|Link do vídeo do teste realizado: | https://encurtador.com.br/rsxJT | 
+--|Link do vídeo do teste realizado: | https://encurtador.com.br/rsxJT |
+
+|*Caso de Teste* |*TC-03 - Emitir um alerta dos medicamentos do dia na pagina inicial *|
+|---|---|
+|Requisito Associado | RNF-003 - Emitir um alerta do horário de se medicar.|
+--|Link do vídeo do teste realizado: | https://encurtador.com.br/rsxJT |
 
 |*Caso de Teste* |*TC-005 - Permitir cadastro de medicamentos *|
 |---|---| 
@@ -86,13 +91,18 @@
 
 |*Caso de Teste* |*TC-07 - Permitir a escolha de dicas desejadas*|
 |---|---| 
-|Requisito Associado | RF-002 - Selecionar dicas sugeridas.|
+|Requisito Associado | RF-002 - Selecionar dicas de segurança desejadas.|
 --|Link do vídeo do teste realizado: | https://encurtador.com.br/swOZ4 |
 
-|*Caso de Teste* |*TC-08 - Emitir um alerta do horário de se medicar *|
+|*Caso de Teste* |*TC-07 - Permitir a escolha de tutoriais desejados*|
 |---|---| 
-|Requisito Associado | RF-003 - Emitir um alerta para o horário do medicamento.|
---|Link do vídeo do teste realizado: |  https://encurtador.com.br/oCGL6 |
+|Requisito Associado | RF-002 - Selecionar tutoriais desajdos.|
+--|Link do vídeo do teste realizado: | https://encurtador.com.br/swOZ4 |
+
+|*Caso de Teste* |*TC-07 - Apresentar dicas do dia aleatorias*|
+|---|---| 
+|Requisito Associado | RF-002 - Selecionar dicas sugeridas.|
+--|Link do vídeo do teste realizado: | https://encurtador.com.br/swOZ4 |
 
 
 
