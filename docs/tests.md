@@ -72,37 +72,37 @@
 |*Caso de Teste* |*TC-03 - Cadastro e Utilização de Senha *|
 |---|---|
 |Requisito Associado | RNF-003 - Utilização de Senha para bloqueio.|
---|Link do vídeo do teste realizado: | https://www.loom.com/share/ba6f18cbc0dd4bac94b2108b03a02e40?sid=f044dcf4-7215-43dc-a895-25e8526c8032 |
+--|Link do vídeo do teste realizado: | https://encr.pw/l10CR |
 
 |*Caso de Teste* |*TC-03 - Emitir um alerta dos medicamentos do dia na pagina inicial *|
 |---|---|
 |Requisito Associado | RNF-003 - Emitir um alerta do horário de se medicar.|
---|Link do vídeo do teste realizado: | https://www.loom.com/share/ce6b0fc5d6a643d39845a2e34f49725f?sid=cd1675bd-da72-4153-bf99-6052b723764b |
+--|Link do vídeo do teste realizado: | https://acesse.dev/Flwpq |
 
 |*Caso de Teste* |*TC-005 - Permitir cadastro de medicamentos *|
 |---|---| 
 |Requisito Associado | RF-001 - Criar um cadastro para medicamentos.|
---|Link do vídeo do teste realizado: | https://www.loom.com/share/3725ff8b71704adeb9379f660e58d091?sid=3ea71cc6-ba85-4e83-ba7b-0b97967f8646 | 
+--|Link do vídeo do teste realizado: | https://acesse.dev/uHE4S | 
 
 |*Caso de Teste* |*TC-07 - Permitir a escolha de dicas de segurança desejadas*|
 |---|---| 
 |Requisito Associado | RF-002 - Selecionar dicas de segurança desejadas.|
---|Link do vídeo do teste realizado: | https://www.loom.com/share/6a2e8422992d4c5383121be38da810f3?sid=1a9a55e5-8bde-45a1-8f0e-3b89eb7f6aa6 |
+--|Link do vídeo do teste realizado: | https://l1nq.com/lIE44 |
 
 |*Caso de Teste* |*TC-07 - Permitir a escolha de tutoriais desejados*|
 |---|---| 
 |Requisito Associado | RF-002 - Selecionar tutoriais desajdos.|
---|Link do vídeo do teste realizado: | https://www.loom.com/share/a2972aaafd734231942d91a78e448e45?sid=a2fc14fa-39ba-4d2a-9ee5-4f544184b842 |
+--|Link do vídeo do teste realizado: | https://encr.pw/YCpH7 |
 
 |*Caso de Teste* |*TC-07 - Apresentar dicas do dia aleatorias*|
 |---|---| 
 |Requisito Associado | RF-002 - Selecionar dicas sugeridas.|
---|Link do vídeo do teste realizado: | https://www.loom.com/share/ff3279e619684c9a8b2a31032966efe3?sid=1329113d-f8b3-41eb-9e10-eefe4e64d2ed |
+--|Link do vídeo do teste realizado: | https://acesse.dev/SXtCp |
 
 |*Caso de Teste* |*TC-07 - Apresentar conselhos do dia aleatorios*|
 |---|---| 
 |Requisito Associado | RF-002 - ver conselhos do dia.|
---|Link do vídeo do teste realizado: | https://www.loom.com/share/e660d48f40f747029ede622590399739?sid=646e3a51-386d-4fa9-bcb0-62bc757555c8 |
+--|Link do vídeo do teste realizado: | https://encr.pw/titba |
 
 
 
