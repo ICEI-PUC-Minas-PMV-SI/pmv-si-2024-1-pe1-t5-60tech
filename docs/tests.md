@@ -104,6 +104,11 @@
 |Requisito Associado | RF-002 - Selecionar dicas sugeridas.|
 --|Link do vídeo do teste realizado: | https://encurtador.com.br/swOZ4 |
 
+|*Caso de Teste* |*TC-07 - Apresentar conselhos do dia aleatorios*|
+|---|---| 
+|Requisito Associado | RF-002 - ver conselhos do dia.|
+--|Link do vídeo do teste realizado: | https://encurtador.com.br/swOZ4 |
+
 
 
 ## Avaliação dos Testes de Software
