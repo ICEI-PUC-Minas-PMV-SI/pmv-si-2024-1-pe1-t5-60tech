@@ -9,26 +9,12 @@
 **Resultado esperado** | O site apresentar responsividade.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT02 - A página deverá ter disponibilidade em 99% do tempo**
- :--------------: | ------------
-**Procedimento**  | 1) A página deverá estar disponível 99% do tempo para o usuário.
-**Requisitos associados** | RNF-002
-**Resultado esperado** | O site não apresentar problemas durante a navegação.
-**Resultado obtido** | Sucesso.
-
 **Caso de Teste** | **CT03 -Utilização de Senha para bloqueio – Sistema de Segurança/Privacidade**
  :--------------: | ------------
 **Procedimento**  | 1) O usuário deverá criar um usuário. 2) O usuário deverá logar na sua conta.
 **Requisitos associados** | RNF-003
 **Resultado esperado** | O usuário conseguir utilizar sua conta.
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
-**Resultado obtido** | Sucesso.
-
-**Caso de Teste** | **CT04 -Tempo de resposta de até a 3s para solicitação ao usuário**
- :--------------: | ------------
-**Procedimento**  | 1) O site deve apresentar uma média de resposta de 3s.
-**Requisitos associados** | RNF-004
-**Resultado esperado** | O site responder em até 3 segundos.
 **Resultado obtido** | Sucesso.
 
 **Caso de Teste** | **CT05 -Permitir que o usuário cadastre medicamentos**
@@ -39,7 +25,7 @@
 **Dados de entrada** | Inserção de dados válidos no formulário do cadastro.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT06 -Emitir um alerta do horário para consumir o medicamento**
+**Caso de Teste** | **CT06 -Emitir um alerta dos medicamentos do dia na pagina inicial**
  :--------------: | ------------
 **Procedimento**  | 1) O usuário deverá cadastrar o horário para o consumo. 2) O usuário deve estar logado quando der o horário do medicamento ..
 **Requisitos associados** | RF-002
@@ -47,9 +33,33 @@
 **Dados de entrada** | Inserção de dados válidos no cadastro de horários.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT07 -Apresentar videos sobre dicas solicitadas**
+**Caso de Teste** | **CT07 -Apresentar videos sobre dicas de segurança**
  :--------------: | ------------
 **Procedimento**  | 1) O usuário deverá selecionar dicas. 2) O usuário deverá escolher o tipo de dicas desejadas.
+**Requisitos associados** | RF-003
+**Resultado esperado** |Permitir a vizualização de videos ou textos dicas.
+**Dados de entrada** | Selecionar dicas sugeridas.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT07 -Apresentar videos sobre tutoriais**
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário deverá selecionar tutoriais. 2) O usuário deverá escolher a rede social desejada. 3) O usuário deverá escolher o tutoriais desejado, sobre a rede social selecionada no passo anterior.
+**Requisitos associados** | RF-003
+**Resultado esperado** |Permitir a vizualização de videos ou textos dicas.
+**Dados de entrada** | Selecionar dicas sugeridas.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT07 -Apresentar dicas do dia aleatorias**
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário deverá ver a dica do dia na pagina inicial do site. 2) O usuário deverá clicar em "ver mais" para ver o contepudo completo da dica.
+**Requisitos associados** | RF-003
+**Resultado esperado** |Permitir a vizualização de videos ou textos dicas.
+**Dados de entrada** | Selecionar dicas sugeridas.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT07 -Apresentar conselhos do dia aleatorios**
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário deverá clicar em conselhos do dia para ver um conselho aleatorio.
 **Requisitos associados** | RF-003
 **Resultado esperado** |Permitir a vizualização de videos ou textos dicas.
 **Dados de entrada** | Selecionar dicas sugeridas.
@@ -64,20 +74,10 @@
 |Requisito Associado | RNF-001 - Usuários encontraram responsividade em diversas interfaces.|
 --|Link do vídeo do teste realizado: |https://encurtador.com.br/yIPS4 | 
 
-|*Caso de Teste* |*TC-02 - Disponibilidade da Página *|
-|---|---|
-|Requisito Associado | RNF-002 - Site estar dispónivel para navegação.|
---|Link do vídeo do teste realizado: | https://encurtador.com.br/dBVX5 | 
-
 |*Caso de Teste* |*TC-03 - Cadastro e Utilização de Senha *|
 |---|---|
 |Requisito Associado | RNF-003 - Utilização de Senha para bloqueio.|
 --|Link do vídeo do teste realizado: | https://encurtador.com.br/rsxJT | 
-
-|*Caso de Teste* |*TC-04 - Tempo de Resposta de 3s *|
-|---|---| 
-|Requisito Associado | RNF-004 - Tempo de resposta de até a 3s para solicitação ao usuário.|
---|Link do vídeo do teste realizado: | https://encurtador.com.br/ipBM4 | 
 
 |*Caso de Teste* |*TC-005 - Permitir cadastro de medicamentos *|
 |---|---| 
