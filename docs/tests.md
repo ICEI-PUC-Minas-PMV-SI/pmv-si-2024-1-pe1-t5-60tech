@@ -69,11 +69,6 @@
 
 ## Registro dos Testes de Software
 
-|*Caso de Teste* |*TC-01 - Responsividade *|
-|---|---|
-|Requisito Associado | RNF-001 - Usuários encontraram responsividade em diversas interfaces.|
---|Link do vídeo do teste realizado: |https://encurtador.com.br/yIPS4 | 
-
 |*Caso de Teste* |*TC-03 - Cadastro e Utilização de Senha *|
 |---|---|
 |Requisito Associado | RNF-003 - Utilização de Senha para bloqueio.|
