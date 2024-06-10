@@ -27,17 +27,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Responsável | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| A aplicação deve permitir que o usuário faça login | Paulo |  - 
-|RF-002| A aplicação deve permitir que o usuário faça seu cadastro | Paulo |  - 
+|RF-001| A aplicação deve permitir que o usuário faça login | Paulo e Yasmin |  login-page.html, login.js
+|RF-002| A aplicação deve permitir que o usuário faça seu cadastro | Paulo e Yasmin |  registration page.html, cadastro.js
 |RF-003| A aplicação deve permitir que o usuário gerencie suas informações (Perfil)   | Pedro | perfil.html
 |RF-004| A aplicação deve permitir que o usuário visualize as informações do site (sobre nós) | Pedro | sobre-nos.html
-|RF-005| A aplicação deve permitir que o usuário cadastre seus medicamentos e horários | Gabriel |  cadastro-remedio.html
-|RF-006| A aplicação deve permitir que o usuário visualize seus medicamentos cadastrados | Gabriel | meus-remedios.html
+|RF-005| A aplicação deve permitir que o usuário cadastre seus medicamentos e horários | Gabriel e Yasmin |  cadastro-remedios.html, medicamentos.js 
+|RF-006| A aplicação deve permitir que o usuário visualize seus medicamentos cadastrados | Gabriel | meus-remedios.html, medicamentos.js
 |RF-007| A aplicação deve permitir o usuário acessar dicas sobre segurança para o usuário | Lucas | dicas-segurança.html
 |RF-008| A aplicação deve permitir o usuário acessar tutoriais sobre ferramentas de tecnologia | Yasmin | tutoriais.html
 |RF-009| A aplicação deve permitir o usuário avaliar a dica, suporte, tutorial para relevância da informação | Lucas e Yasmin | conteudo-dicas.html e conteudo-tutoriais.html
 |RF-010| A aplicação deve permitir que o usuário compartilhe o conteúdo do site | Lucas e Yasmin | conteudo-dicas.html e conteudo-tutoriais.html
-|RF-011| A aplicação deve permitir que o usuário visualize as dicas do dia | Todos | index.html/dica-do-dia.html
+|RF-011| A aplicação deve permitir que o usuário visualize as dicas do dia | Lucas | dica01.html, dica02.html, dica03.html, randomRedirect.js
+|RF-011| A aplicação deve permitir que o usuário visualize os medicamentos do dia na pagina inicial (popup) | Lucas | index.html, popup.js
+|RF-011| A aplicação deve permitir que o usuário visualize os conselhos do dia (API) | Lucas | conselhos.html
 
 ## Descrição das estruturas:
 
@@ -52,7 +54,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | nome         | String            | nome do medicamento              | remedioX                          |
-| quantidade   | String             | quantidade do medicamento, pode ser em numeros (capsulas) ou em ml      | 2     |              
+| quantidade   | String             | quantidade do medicamento, pode ser em numeros (capsulas) ou em ml      | 2     |
+| data         | Date           | Data dos medicamentos             | 26/06/2024                          |
 | horario         | Time           | Horarios dos medicamentos             | 10:00hrs                           |
 | descrição      | String           | Campo para observações do medicamento  | Lembre-se de manter o remedio na geladeira |
 
@@ -60,7 +63,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | nome         | String            | nome do medicamento              | remedioX                          |
-| quantidade   | String             | quantidade do medicamento, pode ser em numeros (capsulas) ou em ml      | 2     |              
+| quantidade   | String             | quantidade do medicamento, pode ser em numeros (capsulas) ou em ml      | 2     | 
+| data         | Date           | Data dos medicamentos             | 26/06/2024                          |
 | horario         | Time           | Horarios dos medicamentos             | 10:00hrs                           |
 | descrição      | String           | Campo para observações do medicamento  | Lembre-se de manter o remedio na geladeira |
 
@@ -86,7 +90,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | nome completo         | String            | nome do usuárop              | Alberto Silva                          |
 | e-mail   | String             | e-mail do usuário     | alberto@gmail.com    |              
-| senha         | String           | senha para acessar a plataforma           | @123alberto                          |
 
 
 ## Tutoriais / dicas
