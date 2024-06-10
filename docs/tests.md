@@ -72,37 +72,37 @@
 |*Caso de Teste* |*TC-03 - Cadastro e Utilização de Senha *|
 |---|---|
 |Requisito Associado | RNF-003 - Utilização de Senha para bloqueio.|
---|Link do vídeo do teste realizado: | https://encr.pw/l10CR |
+|Link do vídeo do teste realizado: | https://encr.pw/l10CR |
 
 |*Caso de Teste* |*TC-03 - Emitir um alerta dos medicamentos do dia na pagina inicial *|
 |---|---|
 |Requisito Associado | RNF-003 - Emitir um alerta do horário de se medicar.|
---|Link do vídeo do teste realizado: | https://acesse.dev/Flwpq |
+|Link do vídeo do teste realizado: | https://acesse.dev/Flwpq |
 
 |*Caso de Teste* |*TC-005 - Permitir cadastro de medicamentos *|
 |---|---| 
 |Requisito Associado | RF-001 - Criar um cadastro para medicamentos.|
---|Link do vídeo do teste realizado: | https://acesse.dev/uHE4S | 
+|Link do vídeo do teste realizado: | https://acesse.dev/uHE4S | 
 
 |*Caso de Teste* |*TC-07 - Permitir a escolha de dicas de segurança desejadas*|
 |---|---| 
 |Requisito Associado | RF-002 - Selecionar dicas de segurança desejadas.|
---|Link do vídeo do teste realizado: | https://l1nq.com/lIE44 |
+|Link do vídeo do teste realizado: | https://l1nq.com/lIE44 |
 
 |*Caso de Teste* |*TC-07 - Permitir a escolha de tutoriais desejados*|
 |---|---| 
 |Requisito Associado | RF-002 - Selecionar tutoriais desajdos.|
---|Link do vídeo do teste realizado: | https://encr.pw/YCpH7 |
+|Link do vídeo do teste realizado: | https://encr.pw/YCpH7 |
 
 |*Caso de Teste* |*TC-07 - Apresentar dicas do dia aleatorias*|
 |---|---| 
 |Requisito Associado | RF-002 - Selecionar dicas sugeridas.|
---|Link do vídeo do teste realizado: | https://acesse.dev/SXtCp |
+|Link do vídeo do teste realizado: | https://acesse.dev/SXtCp |
 
 |*Caso de Teste* |*TC-07 - Apresentar conselhos do dia aleatorios*|
 |---|---| 
 |Requisito Associado | RF-002 - ver conselhos do dia.|
---|Link do vídeo do teste realizado: | https://encr.pw/titba |
+|Link do vídeo do teste realizado: | https://encr.pw/titba |
 
 
 
