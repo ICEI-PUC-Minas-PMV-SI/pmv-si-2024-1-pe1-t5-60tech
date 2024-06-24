@@ -97,7 +97,7 @@
 |*Caso de Teste* |*TC-07 - Apresentar dicas do dia aleatorias*|
 |---|---| 
 |Requisito Associado | RF-002 - Selecionar dicas sugeridas.|
-|Link do vídeo do teste realizado: | https://acesse.dev/SXtCp |
+|Link do vídeo do teste realizado: | [https://acesse.dev/SXtCp](https://www.loom.com/share/ff3279e619684c9a8b2a31032966efe3) |
 
 |*Caso de Teste* |*TC-07 - Apresentar conselhos do dia aleatorios*|
 |---|---| 
