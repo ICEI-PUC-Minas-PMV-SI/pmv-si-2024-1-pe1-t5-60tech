@@ -72,27 +72,27 @@
 |*Caso de Teste* |*TC-03 - Cadastro e Utilização de Senha *|
 |---|---|
 |Requisito Associado | RNF-003 - Utilização de Senha para bloqueio.|
-|Link do vídeo do teste realizado: | https://encr.pw/l10CR |
+|Link do vídeo do teste realizado: | [https://encr.pw/l10CR](https://www.loom.com/share/ba6f18cbc0dd4bac94b2108b03a02e40) |
 
 |*Caso de Teste* |*TC-03 - Emitir um alerta dos medicamentos do dia na pagina inicial *|
 |---|---|
 |Requisito Associado | RNF-003 - Emitir um alerta do horário de se medicar.|
-|Link do vídeo do teste realizado: | https://acesse.dev/Flwpq |
+|Link do vídeo do teste realizado: | [https://acesse.dev/Flwpq](https://www.loom.com/share/ce6b0fc5d6a643d39845a2e34f49725f) |
 
 |*Caso de Teste* |*TC-005 - Permitir cadastro de medicamentos *|
 |---|---| 
 |Requisito Associado | RF-001 - Criar um cadastro para medicamentos.|
-|Link do vídeo do teste realizado: | https://acesse.dev/uHE4S | 
+|Link do vídeo do teste realizado: | [https://acesse.dev/uHE4S](https://www.loom.com/share/3725ff8b71704adeb9379f660e58d091) | 
 
 |*Caso de Teste* |*TC-07 - Permitir a escolha de dicas de segurança desejadas*|
 |---|---| 
 |Requisito Associado | RF-002 - Selecionar dicas de segurança desejadas.|
-|Link do vídeo do teste realizado: | https://l1nq.com/lIE44 |
+|Link do vídeo do teste realizado: | [https://l1nq.com/lIE44](https://www.loom.com/share/6a2e8422992d4c5383121be38da810f3) |
 
 |*Caso de Teste* |*TC-07 - Permitir a escolha de tutoriais desejados*|
 |---|---| 
 |Requisito Associado | RF-002 - Selecionar tutoriais desajdos.|
-|Link do vídeo do teste realizado: | https://encr.pw/YCpH7 |
+|Link do vídeo do teste realizado: | [https://encr.pw/YCpH7](https://www.loom.com/share/a2972aaafd734231942d91a78e448e45) |
 
 |*Caso de Teste* |*TC-07 - Apresentar dicas do dia aleatorias*|
 |---|---| 
