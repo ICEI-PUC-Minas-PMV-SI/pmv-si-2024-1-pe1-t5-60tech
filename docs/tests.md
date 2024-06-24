@@ -102,7 +102,7 @@
 |*Caso de Teste* |*TC-07 - Apresentar conselhos do dia aleatorios*|
 |---|---| 
 |Requisito Associado | RF-002 - ver conselhos do dia.|
-|Link do vídeo do teste realizado: | https://encr.pw/titba |
+|Link do vídeo do teste realizado: | [https://encr.pw/titba](https://www.loom.com/share/e660d48f40f747029ede622590399739) |
 
 
 
