@@ -1,20 +1,20 @@
 {
-  "name": "lab-jsonserver",
+  "name": "60-mais-tech",
   "version": "1.0.0",
-  "description": "Laboratório de aplicação Web com backend baseado no JSON Server",
-  "main": "index.js",
+  "description": "60 + Tech on Render",
+  "main": "server.js",
+  "author": "Render Developers",
+  "license": "MIT",
+  "private": false,
   "scripts": {
-    "start": "json-server --watch ./db/db.json -s ./public"
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "Yasmin Goncalves",
-  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "json-server": "^0.17.4",
-    "nodemailer": "^6.9.13",
+    "nodemailer": "^6.9.14",
     "resend": "^3.2.0",
     "wbm": "^1.1.16"
   }

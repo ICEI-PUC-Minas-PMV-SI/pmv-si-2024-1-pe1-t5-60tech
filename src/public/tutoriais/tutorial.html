@@ -21,7 +21,7 @@
 
 <body style="background-color: #e7fbff;">
     <header>
-        <span class="material-symbols-outlined seta"><a href="facebook.html">arrow_back</a></span>
+        <span class="material-symbols-outlined seta"><a href="email.html">arrow_back</a></span>
         <nav class="navbar">
             <div class="logo">
                 <img src="../../../img/logo.png" alt="Logo 60+ Tech">
@@ -41,23 +41,24 @@
             </div>
         </nav>
     </header>
-    <h4 style="margin-left: 2%;">TUTORIAIS SOBRE O FACEBOOK</h4>
+    <h4 style="margin-left: 2%;">TUTORIAIS</h4>
     <main>
         <div class="cards">
             <div class="box conteudo">
-                <p style="font-size: xx-large;">Como criar uma conta no Facebook.</p><br>
+                <p id="tituloTutorial" style="font-size: xx-large;">Como enviar e responder E-mails no Gmail.</p><br>
 
-                <b>Criando uma conta:</b><br><br>
-                <div class="conteudo">
-                    <p>1. Acesse <a href="https://www.facebook.com/" target="_blank">facebook.com</a> e clique em <b>Criar nova conta</b>.</p>
-                    <p>2. Insira seu nome, email ou número do celular, senha, data de nascimento e gênero.</p>
-                    <p>3. Clique em <b>Cadastrar-se</b>.</p>
-                    <p>4. Para terminar de criar sua conta, você precisará confirmar seu email ou número de celular.</p>
+                <div id="textoTutorial" class="conteudo">
+                    <p>1. No computador, acesse o Gmail.</p>
+                    <p>2. Na parte superior esquerda, clique no símbolo  <img style="width: 22px; height: 22px;" src="//storage.googleapis.com/support-kms-prod/ez5AQYTSwwalQx9hVK7N2sg35g7DL7d63NPa" width="8px" height="8px" alt="" data-mime-type="image/png">.</p>
+                    <p>3. Adicione destinatários no campo "Para".</p>
+                    <p>4. Adicione um assunto.</p>
+                    <p>5. Escreva a sua mensagem.</p>
+                    <p>6. Na parte inferior da página, clique em <b>Enviar</b>.</p>
                 </div><br>
                 <br>
-                <p>Não se esqueça de deixar sua avaliação e compartilhar com os amigos!</p>
-                <br><iframe width="900" height="500" src="https://www.youtube.com/embed/Y_yBtsMG--c?si=rvWwFncRH11rpftH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <br><iframe id="videoTutorial" width="900" height="500" src="https://www.youtube.com/embed/zSAHLP7Vz7c?si=NGBKvTHk_92Vxl44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 <br>
+                <p>Não se esqueça de deixar sua avaliação e compartilhar com os amigos!</p>
                 <br><button class="btn avalie"><a href="">
                         <h3>Avalie</h3>
                     </a></button>
@@ -99,6 +100,30 @@
                 class="material-icons md-18 orange">copyright</span></p>
     </footer>
     <script src="/src/js/menu.js"></script>
+    <script src="tutorial.js"></script>
+    <script>
+     
+// Função para selecionar e exibir o tutorial correto na página
+function selectedTutorial() {
+    const nome = sessionStorage.getItem("tutorial");
+    console.log("Nome recebido na função:", nome);
+    console.log(db_tutoriais);
+    // Busca o tutorial no array de tutoriais pelo nome do título
+    const tutorial = db_tutoriais.find(t => t.titulo === nome);
+    //console.log(tutorial.titulo);
+    // Atualiza o título, texto e vídeo na página se o tutorial for encontrado
+    if (tutorial) {
+        document.getElementById("tituloTutorial").textContent = tutorial.titulo;
+        document.getElementById("textoTutorial").innerHTML = tutorial.texto;
+        document.getElementById("videoTutorial").src = tutorial.video;
+    } else {
+        console.error(`Tutorial com título '${nome}' não encontrado.`);
+    }
+}
+
+// Listener para aguardar o carregamento completo da página
+window.addEventListener("load", selectedTutorial);
+    </script>
 </body>
 
 </html>

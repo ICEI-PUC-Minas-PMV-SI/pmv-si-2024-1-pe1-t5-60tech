@@ -6,7 +6,7 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+60 + Tech é uma plataforma destinada a pessoas idosas, focada em tornar suas rotinas mais simples e ajudá-las a utilizar a tecnologia de forma mais eficiente. Disponibilizamos tutoriais detalhados de aplicativos variados, dicas úteis sobre segurança online e navegação, além de um lembrete diário para medicamentos e uma seção dedicada ao cadastro e gerenciamento dos remédios.
 
 ## Integrantes
 
