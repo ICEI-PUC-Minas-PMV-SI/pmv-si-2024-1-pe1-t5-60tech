@@ -29,17 +29,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |------|------------------------|------------|-----------------|
 |RF-001| A aplicação deve permitir que o usuário faça login | Paulo e Yasmin |  login-page.html, login.js
 |RF-002| A aplicação deve permitir que o usuário faça seu cadastro | Paulo e Yasmin |  registration page.html, cadastro.js
-|RF-003| A aplicação deve permitir que o usuário gerencie suas informações (Perfil)   | Pedro | perfil.html
+|RF-003| A aplicação deve permitir que o usuário gerencie suas informações (Perfil)   | Pedro e Yasmin | perfil.html
 |RF-004| A aplicação deve permitir que o usuário visualize as informações do site (sobre nós) | Pedro | sobre-nos.html
 |RF-005| A aplicação deve permitir que o usuário cadastre seus medicamentos e horários | Gabriel e Yasmin |  cadastro-remedios.html, medicamentos.js 
 |RF-006| A aplicação deve permitir que o usuário visualize seus medicamentos cadastrados | Gabriel e Yasmin | meus-remedios.html, medicamentos.js
 |RF-007| A aplicação deve permitir o usuário acessar dicas sobre segurança para o usuário | Lucas | dicas-segurança.html, boleto.html, pix.html
-|RF-008| A aplicação deve permitir o usuário acessar tutoriais sobre ferramentas de tecnologia | Yasmin | tutoriais.html, email.html, gmail.html, criarConta.html, facebook.html, addContatos.html, delete.html, reply.html, status.html, whatsapp.html
+|RF-008| A aplicação deve permitir o usuário acessar tutoriais sobre ferramentas de tecnologia | Yasmin | tutoriais.html, email.html, whatsapp.html, facebook.html
 |RF-009| A aplicação deve permitir o usuário avaliar a dica, suporte, tutorial para relevância da informação | Lucas e Yasmin | conteudo-dicas.html e conteudo-tutoriais.html
 |RF-010| A aplicação deve permitir que o usuário compartilhe o conteúdo do site | Lucas e Yasmin | conteudo-dicas.html e conteudo-tutoriais.html
 |RF-011| A aplicação deve permitir que o usuário visualize as dicas do dia | Lucas | dica01.html, dica02.html, dica03.html, randomRedirect.js
-|RF-011| A aplicação deve permitir que o usuário visualize os medicamentos do dia na pagina inicial (popup) | Lucas | index.html, popup.js
-|RF-011| A aplicação deve permitir que o usuário visualize os conselhos do dia (API) | Lucas | conselhos.html
+|RF-012| A aplicação deve permitir que o usuário visualize os medicamentos do dia na pagina inicial (popup) | Lucas | index.html, popup.js
+|RF-013| A aplicação deve permitir que o usuário compartilhe os medicamentos do dia (API) | Yasmin | index.html
+|RF-014| A aplicação deve permitir que o usuário visualize os conselhos do dia (API) | Lucas | conselhos.html
 
 ## Descrição das estruturas:
 
