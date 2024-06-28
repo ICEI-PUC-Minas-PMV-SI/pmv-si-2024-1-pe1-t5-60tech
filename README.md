@@ -1,5 +1,5 @@
 # 60+ Tech
-Link do site: https://render-lsr8.onrender.com
+Link do site: https://six0tech.onrender.com
 
 `CURSO: Sistemas de Informação`
 
