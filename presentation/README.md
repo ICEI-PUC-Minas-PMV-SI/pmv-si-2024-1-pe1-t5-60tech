@@ -2,7 +2,7 @@
 
 * [Apresentação ](./Presentation.pdf) -- arquivo com os slides da apresentação 
 * [Vídeo de demonstração](./sample-video.mp4) -- arquivo com a demonstração do funcionamento do sistema
-* [Link no Youtube do vídeo de apresentação: https://youtu.be/HaVFto7_Xtk])
+* [Link no Youtube do vídeo de apresentação: https://youtu.be/RSqpROXeU5Q])
 
 
 ## Vídeo de demonstração
